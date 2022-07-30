@@ -66,9 +66,10 @@
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"GGTV高清","type":1,"url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
-{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
+//{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 {"name":"parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
@@ -76,8 +77,9 @@
 {"name":"王牌解析","type":1,"url":"https://za.kuanjv.com/?url="},
  
 {"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
-{"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
+
 {"name":"GGTV快速2","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url="},
 {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
 {"name":"人迷解析","type":0,"url":"https://jx.blbo.cc:4433/?url="}, 
