@@ -60,7 +60,9 @@
 //{"key":"csp_biubiu_真不卡cerrd","name":"真不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/zhenbuka.json"},
 {"key":"csp_biubiu_风车动漫","name":"风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/fengchedongman.json"},
 {"key":"csp_biubiu_OmoFun动漫","name":"OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/omofun.json"},
- {"key":"csp_xpath___动漫巴士","name":"动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/dongmanbashi.json"}],
+{"key":"csp_xpath___动漫巴士","name":"动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/dongmanbashi.json"}],
+
+ 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9Eb25nLWxlYXJuOS9UVkJveC16eWprL21haW4vbGl2ZS50eHQ="]}]}],
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
@@ -75,17 +77,12 @@
 {"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"第一解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"王牌解析","type":1,"url":"https://za.kuanjv.com/?url="},
- 
 {"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
-
-{"name":"GGTV快速2","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url="},
 {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
 {"name":"人迷解析","type":0,"url":"https://jx.blbo.cc:4433/?url="}, 
 {"name":"必成解析","type": 1,"url": " https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"知识解析","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
- 
 {"name":"盘古解析","type":1,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
 {"name":"m3u8tv解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"云逸解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
