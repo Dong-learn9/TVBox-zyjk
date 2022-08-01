@@ -72,10 +72,13 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"GGTV高清","type":1,"url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
+{"name": "293高清","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
+{"name":"爱酷解析","type":1,"url":"https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=","ext":{"flag":["youku","优酷","优酷视频","qq","腾讯视频","腾讯","bilibili","哔哩哔哩","哔哩","sohu","搜狐","letv","pptv","芒果","芒果tv","imgo"]}},
 //{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
+
 {"name":"parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"第一解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
