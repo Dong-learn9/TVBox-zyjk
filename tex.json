@@ -31,7 +31,7 @@
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
  
-//{"key":"Ikan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Ikan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"Ekan_spider","name":"Ekan","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1}, 
 //{"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
