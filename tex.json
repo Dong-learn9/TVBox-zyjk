@@ -1,6 +1,6 @@
 {
 	//20220804
-	"spider": "https://raw.githubusercontents.com/franksun1211/TVBOX/main/APP/JAR/top94.jar.jar",
+	"spider": "https://raw.githubusercontents.com/franksun1211/TVBOX/main/APP/JAR/top94.jar",
 	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9tYWluL0FQUC90di90cy50eHQ="]}]}],
 	"sites": [
