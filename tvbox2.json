@@ -92,14 +92,14 @@
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"爱酷解析1","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1846386&key=aeikvxyzAEGHOTY478&url=","ext":{"flag":["youku","优酷","优酷视频","qq","腾讯视频","腾讯","bilibili","哔哩哔哩","哔哩","sohu","搜狐","letv","pptv","芒果","芒果tv","imgo"]}},
-{"name":"爱酷2","type":1,"url":"http://cache.json.icu/home/api?type=hezi&uid=1846386&key=aeikvxyzAEGHOTY478&url="},
+//{"name":"爱酷2","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1846386&key=aeikvxyzAEGHOTY478&url="},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 
 
 {"name":"parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"第一解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"王牌解析","type":1,"url":"https://za.kuanjv.com/?url="},
+//{"name":"王牌解析","type":1,"url":"https://za.kuanjv.com/?url="},
 {"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url="},
 {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
