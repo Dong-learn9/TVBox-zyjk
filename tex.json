@@ -1,4 +1,6 @@
  {
+  "wallpaper":"http://刚刚.live/图",
+"spider":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/jar/qj293.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B",
 "sites":[
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_QQ","name":"腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -204,7 +206,6 @@
 "qiu.xixiqiu.com",
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
-],
-"wallpaper":"http://刚刚.live/图",
-"spider":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/jar/qj293.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"
+]
+
 }
