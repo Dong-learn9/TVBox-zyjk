@@ -3423,6 +3423,10 @@ WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1
 ⛱河南,#genre#
 河南,http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1?zhend
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
+河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+河南都市,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2
+河南都市,http://219.150.217.41:6610/PLTV1/600/index.m3u8?icpid=dxrm1
+
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 中牟综合频道,http://rtsp.zmgdcm.cn:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect.m3u8?zhend
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
