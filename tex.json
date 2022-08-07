@@ -1,4 +1,4 @@
- {
+{
 "sites":[
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
