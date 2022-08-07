@@ -12,9 +12,6 @@
 //{"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/jar/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
 //{"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/jar/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
 
- 
- 
- 
 {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_555电影","name":"5️555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/XB/555.json"},
 {"key":"csp_biubiu_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/XB/lezhu.json"}, 
