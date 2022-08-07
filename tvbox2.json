@@ -91,7 +91,7 @@
 {"name": "293高清","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
-{"name":"爱酷解析1","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1846386&key=aeikvxyzAEGHOTY478&url=","ext":{"flag":["youku","优酷","优酷视频","qq","腾讯视频","腾讯","bilibili","哔哩哔哩","哔哩","sohu","搜狐","letv","pptv","芒果","芒果tv","imgo"]}},
+{"name":"爱酷解析","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=1846386&key=aeikvxyzAEGHOTY478&url=","ext":{"flag":["youku","优酷","优酷视频","qq","腾讯视频","腾讯","bilibili","哔哩哔哩","哔哩","sohu","搜狐","letv","pptv","芒果","芒果tv","imgo"]}},
 {"name":"第一线","type":1,"url":"https://vip.fuqizhishi.com/index.php?url="},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 
