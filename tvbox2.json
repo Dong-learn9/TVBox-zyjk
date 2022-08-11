@@ -92,6 +92,7 @@
 {"name":"GGTV2","type":1,"url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
 {"name":"GGTV3","type":1,"url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
 {"name":"TV293","type":1,"url":"http://home.jundie.top:666/tv293.php?url="},
+
 {"name": "293高清","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
