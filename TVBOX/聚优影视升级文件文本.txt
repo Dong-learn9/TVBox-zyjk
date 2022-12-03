@@ -1,0 +1,7 @@
+{
+  "versionCode": "6",
+  "versionName": "1.0.5",
+  "downUrl": "https://gitea.com/zhanghong/apk_release/raw/branch/main/tv/1/聚合影视_1.0.5.apk",
+  "description": "优化软件界面",
+  "md5":"099fe1ea1567134384ca2d4360a041f3"
+}

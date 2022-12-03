@@ -1,0 +1,105 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.domp4.cc",
+    // 分类节点
+	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '99')) and not(contains(/text(), '专题')) and not(contains(/text(), '索引'))]",
+    // 分类名
+	"cateName": "/text()",
+    // 分类id
+	"cateId": "/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/list/(\\d+)-1.html",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[@id='list_all']/ul//li/a",
+    // 首页推荐视频的名称
+	"homeVodName": "/img/@alt",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "(\\S+).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "/img/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.domp4.cc/list/{cateId}-{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@id='list_all']/ul//li/a",
+	"cateVodName": "/img/@alt",
+	"cateVodNameR": "",
+	"cateVodId": "/@href",
+	"cateVodIdR": "(\\S+).html",
+	"cateVodImg": "/img/@data-original",
+	"cateVodMark": "",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.domp4.cc{vid}.html",
+    // 详情节点
+	"dtNode": "//div[@class='article-header']",
+    // 视频名
+	"dtName": "//p/em[contains(text(),'名称')]/parent::*/span/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@class='pic']/img/@src",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[contains(text(), '类型')]/span/a/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//em[contains(text(),'年份')]/parent::*/span/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//em[contains(text(),'地区')]/parent::*/span/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//em[contains(text(),'更新')]/parent::*/span/text()",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//em[contains(text(),'主演')]/parent::*/span//span/a/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//em[contains(text(),'导演')]/parent::*/span//span/a/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "/parent::*//div[@class='article-related info']/p/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[contains(@class,'download_url')]",
+    // 播放源名称
+	"dtFromName": "/h2/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "//ul[contains(@class,'down-list')]",
+    // 播放地址节点
+	"dtUrlSubNode": "/li//a",
+    // 播放地址
+	"dtUrlId": "@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "{playUrl}",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	"searchUrl": "https://www.domp4.cc/search/{wd}.html",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@id='list_all']/ul//li/a",
+	"scVodName": "/img/@alt",
+	"scVodId": "/@href",
+	"scVodIdR": "(\\S+).html",
+	"scVodImg": "/img/@data-original",
+	"scVodMark": ""
+}

@@ -1,0 +1,7 @@
+{
+"version": "1.0.0",
+"changelog": "清除原有的数据才能显示更新后的新数据。功能优化，配置线路40条",
+
+"force": false,
+"download": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/影视TV/APK/观影 Pro.apk"
+}
