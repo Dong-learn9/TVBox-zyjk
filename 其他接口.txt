@@ -1,0 +1,119 @@
+{
+"urls":[
+//{"url":"","name":"请点击下方线路观看"},
+{
+"url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+"name":"张弘线路"
+},
+{
+"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+"name":"Yoursmile7线路"
+},
+{
+"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+"name": "Yoursmile7线路"
+},
+{
+"url": "http://xn--cdun98c.tk:86/api/v3/file/get/767/XC.json?sign=LO4o5xJk2Lr1jEnGUN1QvZbrCAB9UNTdhoJCxQ55OsA%3D%3A0",
+"name": "Yoursmile7备用线路"
+},
+{
+"url": "http://肥猫.love",
+"name": "肥猫线路"
+},
+{
+"url": "http://我不是.肥猫.love:63",
+"name": "我不是.肥猫线路"
+},
+{
+"url": "https://tvbox.cainisi.cf",
+"name": "菜妮丝线路"
+},
+{
+"url": "http://xn--sss604efuw.ga/x/o.json",
+"name": "饭太硬线路"
+},
+{
+"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+"name": "66666线路"
+},
+{
+"url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+"name": "老刘备线路"
+},
+{
+"url": "https://raw.liucn.cc/box/m.json",
+"name": "老刘备副线"
+},
+{
+"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+"name": "小苹果线路"
+},
+{
+"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+"name": "〔云星日记〕线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+"name": "〔云星日记〕哔哩套餐线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+"name": "〔云星日记〕阿里套餐线路"
+},
+{
+"url": "http://刚刚.live/猫",
+"name": "猫TV主线"
+},
+{
+"url": "http://xn--4bra.live/猫",
+"name": "猫TV副线"
+},
+{
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/新建 文本文档8.txt",
+"name": "佰欣园线路"
+},
+{
+"url": "https://神器每日推送.tk/pz.json",
+"name": "神器每日推送线路"
+},
+{
+"url": "http://0454dt.com/tvbox",
+"name": "二哈线路"
+},
+{
+"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+"name": "二哈备用线路"
+},
+{
+"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
+"name": "佰欣园????"
+},
+{
+"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
+"name": "佰欣园?????"
+},
+{
+"url": "以下线路不确定是否会维护",
+"name": "↓以下线路不确定是否会维护↓"
+},
+{
+"url": "http://miaotvs.cn/osc",
+"name": "太阳视界家庭版线路"
+},
+{
+"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+"name": "月光宝盒线路"
+},
+{
+"url": "http://js.134584.xyz/json/pp87.json",
+"name": "白嫖影视主线"
+}
+],
+"vip": [
+{
+"url": "",
+"name": ""
+}
+]
+}
