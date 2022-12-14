@@ -1,3 +1,3 @@
-# TVBOXZY
+# TVBOXZY自用接口
 
-TVBOX
+所有资源全部搜集于网络
