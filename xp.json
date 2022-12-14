@@ -1,6 +1,6 @@
 {
 "spider":"./JAR/Yoursmile.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96aGFuZ2hvbmcxOTgzL1RWQk9YWlkvbWFpbi9UVi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
@@ -24,7 +24,6 @@
 {"key":"csp_xpath_vip1280","name":"VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/vip1280.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/huigutongying.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/lezhutv.json"},
-{"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/jpys.json"},
 {"key":"csp_xpath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/lranc.json"},
 {"key":"csp_xpath_maole","name":"喵乐影视(XPF)️","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/maole.json"},
 {"key":"csp_xpath_xuangz","name":"尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/xuangz.json"},

@@ -1,14 +1,14 @@
 {
 "作者":"张弘",
 "站名":"555电影",
-"主页url":"https://www.555ys3.com/",
+"主页url":"https://www.555ys1.com/",
 "二次截取":"class=\"module-items&&class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"note\">&&</div>",
-"搜索url":"https://www.555ys3.com/vodsearch/{wd}----------{pg}---.html",
+"搜索url":"https://www.555ys1.com/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索数组":"module-item\">&&</a>",
 "搜索图片":"data-original=\"&&\"",
@@ -28,7 +28,7 @@
 "播放链接":"href=\"&&\"",
 "分类":"电影&连续剧&福利&动漫&综艺纪录",
 "分类值":"1&2&124&4&3",
-"分类url":"https://www.555ys3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.555ys1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html",
 "免嗅":"1",
 "筛选":{
 "1":[

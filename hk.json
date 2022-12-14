@@ -3,7 +3,7 @@
 
 "spider" : "./JAR/海阔推送.jar",
 
-"lives":[{"group" : "redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96aGFuZ2hvbmcxOTgzL1RWQk9YWlkvbWFpbi9UVi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 
 "sites": [ {"key": "push_agent","name": "📽海阔推送","type": 3,"api":"csp_PushAgent","ext": "4b43fe34515644d3927901d66ba45640"}],
 

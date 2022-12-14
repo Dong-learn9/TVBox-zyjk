@@ -6746,6 +6746,7 @@ TVBS新闻,rtmp://59.124.75.150/sat/tv551
 翡翠华丽,http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+翡翠台,http://www.56ku.ml/gudou.php?id=1350_4500
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
@@ -7567,15 +7568,6 @@ MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/maste
 韩国音乐,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 韩国音乐,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 动听漫歌,http://tv.ldlive.xyz/zb/dy.php?id=9564766
-周董乐台,http://tv.ldlive.xyz/zb/dy.php?id=7537296
-余娟乐台,http://tv.ldlive.xyz/zb/dy.php?id=3186217
-音乐抬头,http://tv.ldlive.xyz/zb/dy.php?id=8666105
-黑糖音乐,http://tv.ldlive.xyz/zb/dy.php?id=9560563
-音乐小琼,http://tv.ldlive.xyz/zb/dy.php?id=8666210
-粤语歌姬,http://tv.ldlive.xyz/zb/dy.php?id=4728410
-老郑音乐,http://tv.ldlive.xyz/zb/dy.php?id=8666143
-喵喵音乐,http://tv.ldlive.xyz/zb/dy.php?id=9568091
-Tara皇冠,http://tv.ldlive.xyz/zb/dy.php?id=17732
 音乐石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 音乐石榴,http://tv.ldlive.xyz/zb/hy.php?id=17091681
 新歌速递,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs

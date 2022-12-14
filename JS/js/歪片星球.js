@@ -12,8 +12,8 @@ var rule = {
         // "Cookie": "searchneed=ok"
     },
     //class_parse:'.nav-menu-items&&li;a&&title;a&&href;/(\\d+).html',
-    class_name:'电影&电视剧&综艺&动漫&纪录片&歪片库',
-    class_url:'dianying&juji&zongyi&dongman&jilupian&waipian',
+    class_name:'电影&电视剧&综艺&动漫&纪录片',
+    class_url:'dianying&juji&zongyi&dongman&jilupian',
     play_parse:true,
     lazy:'',
     limit:6,
