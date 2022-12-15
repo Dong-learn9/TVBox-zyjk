@@ -1,7 +1,5 @@
 央视频道,#genre#
 
-CCTV-1综合,https://epg.pm/stream/84b5781ed31f91653ce99255c8c5f594ad0aecdafedf5e836bc468ebeccbf04e.m3u8
-CCTV-1综合,https://epg.pm/stream/70dd54cd4962f476134787ace115a98d6ad0c77c23c8e9e14e5a86d5f64418ae.m3u8
 CCTV-1综合,https://epg.pm/stream/d0174096979a94570fca8b11f79d5ad3aed3f0bdb64a326a5ef9082147f3b094.m3u8
 CCTV-1综合,https://epg.pm/stream/2fe4348af70fbe6838cfad31cbf3805d300f2329a6524dab3f1a3343d2b8536b.m3u8
 CCTV-1综合,https://epg.pm/stream/364bfce536eb46ba162a5211fd198bba799ece34b84364a08761a85592bceae5.m3u8
