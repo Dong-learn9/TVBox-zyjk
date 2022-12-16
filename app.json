@@ -5,6 +5,8 @@
 
 "sites":[
 
+{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"天堂资源〔官源〕","name":"天堂资源〔官源〕","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
 {"key":"多多资源","name":"多多资源〔官源〕","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","伦理","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},
 {"key":"诺讯资源〔官源〕","name":"诺讯资源〔官源〕","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
@@ -39,7 +41,10 @@
 {"key":"csp_appysv2_555电影","name":"555电影〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
 {"key":"csp_appysv2_星辰TV","name":"星辰TV〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_月儿影视","name":"月儿影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
-{"key":"csp_app_小鸟动漫","name":"小鸟动漫〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"}
+{"key":"csp_app_小鸟动漫","name":"小鸟动漫〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
+
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},

@@ -5,6 +5,8 @@
 
 "sites":[
 
+{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_xpath_饭团影视HD","name":"饭团影视HD(XPF)️","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/fantuan.json"},
 {"key":"csp_xpath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/yinfans.json"},
 {"key":"csp_xpath_农民影视","name":"农民影视(XPF)️","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
@@ -40,7 +42,9 @@
 {"key":"csp_xpath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/bidiys.json"},
 {"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/xfeiji.json"},
 {"key":"csp_xpath_dmd","name":"动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/dmd.json"},
-{"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/dm84.json"}
+{"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/dm84.json"},
+
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 
 ],
 "parses":[

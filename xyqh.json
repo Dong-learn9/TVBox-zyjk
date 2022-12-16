@@ -4,12 +4,14 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
-
+{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XYQHiker_4K极客","name":"4K极客(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4K极客.json"},
 {"key":"csp_XYQHiker_氢视频","name":"氢视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/氢视频.json"},
 {"key":"csp_XYQHiker_回响影视","name":"回响影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/回响影视.json"},
 {"key":"csp_XYQHiker_在线之家","name":"在线之家(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/在线之家.json"},
 {"key":"csp_XYQHiker_嘿嘿视频","name":"嘿嘿视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/嘿嘿视频.json"},
-{"key":"csp_XYQHiker_无插件直播","name":"体育直播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/无插件直播.json"}
+{"key":"csp_XYQHiker_无插件直播","name":"体育直播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/无插件直播.json"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
