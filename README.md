@@ -8,37 +8,37 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 2、Github RAW 加速服务
 
-源码 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
+源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 
-香港 https://raw.iqiq.io/liu673cn/box/main/m.json
+香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
 
-新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
+新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
 
 日本 
 
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 
-https://raw.fastgit.org/liu673cn/box/main/m.json
+https://raw.fastgit.org/用户名/仓库名/main/接口文件
 
 韩国
 
 https://ghproxy.com/https://raw.githubusercontent.com/
 
-https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
-https://raw.githubusercontents.com/liu673cn/box/main/m.json
+https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
 
 3，Github 静态加速
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
-https://purge.jsdelivr.net/gh/
+https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 4、EGP源
 
@@ -137,6 +137,18 @@ https://notabug.org/
 （10）http://api.btstu.cn/sjbz/?lx=suiji
 
 （11）https://pictures.catvod.eu.org/
+
+8，短地址平台
+（1）https://short.io
+（2）http://88d.cn
+（3）https://77url.com
+（4）https://suowo.cn
+（5）https://6du.in
+（6）https://www.urlc.cn
+（7）https://59z.cn
+（8）https://suowo.cn
+（9）https://0a.fit/
+（10）https://www.urlc.cn/
 
 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集Box，自用请勿宣传。
 
