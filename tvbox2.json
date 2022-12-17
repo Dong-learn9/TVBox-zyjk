@@ -25,7 +25,7 @@
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/哔哩哔哩1.json"},
+{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/哔哩哔哩.json"},
 {"key":"csp_Yj1211","name":"️直播合集〔SP〕","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ_素白白","name":"素白白〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
@@ -55,7 +55,7 @@
 {"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/JustLive.js"},
 {"key":"drpy_js_蓝光影院","name":"影视 | 蓝光影院[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/蓝光影院.js"},
 
-{"key": "Bili","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩套餐.json"},
+{"key": "Bili","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩哔哩.json"},
 {"key": "演唱会","name": "演唱会（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/演唱会.json"},
 {"key": "戏曲","name": "戏曲（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/戏曲.json"},
 {"key": "MV","name": "歌曲MV（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/歌曲MV.json"},
