@@ -243,7 +243,7 @@ CCTV 4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8
 CCTV 4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV 4K-HD,https://p.ggiptv.com/v/4k.m3u8
+CCTV 4K,https://p.ggiptv.com/v/4k.m3u8
 
 CCTV16-奥林匹克4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16-奥林匹克4K,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
@@ -255,13 +255,13 @@ CCTV16-奥林匹克4K,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/ind
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-4k️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-4k超高清,https://p.ggiptv.com/v/4k.m3u8
-4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+4K️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+4K超高清,https://p.ggiptv.com/v/4k.m3u8
+4K超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
@@ -276,8 +276,8 @@ CCTV16-奥林匹克4K,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/ind
 欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
 欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
-欢笑剧场4k,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
-欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+欢笑剧场4K,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 
 4K连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 
@@ -294,7 +294,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 爱上4k,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 
-C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+芒果4k,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
 北京4k,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
@@ -306,14 +306,12 @@ C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?se
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 索尼+少儿动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?zgangd
-金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
+金鹰卡通,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
 金鹰卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221225721/index.m3u8
 嘉佳卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
 哈哈炫动少儿,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
 卡酷少儿,http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
 优漫卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
-卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
-卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 CCTV-14少儿,http://39.135.32.7:6610/000000001000/CCTV14/1.m3u8?IASHttpSessionId=OTT?zzhongd
 CCTV-14少儿,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
