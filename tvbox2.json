@@ -49,7 +49,7 @@
 {"key":"drpy_js_海盗听书","name":"听书 | 海盗听书[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/海盗听书.js","playerType":"2"},
 {"key":"drpy_js_听书网","name":"听书 | 听书网[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/听书网.js","playerType":"2"},
 {"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/有声小说吧.js","playerType":"2"},
-{"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/短视频.js"},
+//{"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/短视频.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/虎牙直播.js"},
 {"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/JustLive.js"},
