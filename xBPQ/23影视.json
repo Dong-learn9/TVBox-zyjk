@@ -2,9 +2,6 @@
 "作者":"张弘",
 "站名":"23影视",
 "主页url":"https://222.186.150.32",
-"分类":"电影&剧集&综艺&动漫&记录",
-"分类值":"1&2&3&4&20",
-"分类url":"https://222.186.150.32/vodshow/area/{area}/class/{class}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
 "数组":"pack-ykpack\">&&pack-subtitle",
 "标题":"<a class=\"channelname\"*>&&</a>",
 "副标题":"pack-prb\"><span>&&</span>",
@@ -24,6 +21,9 @@
 "线路标题":"</i>&&<",
 "播放数组":"content_playlist cf\">&&</ul>",
 "播放链接前缀":"https://222.186.150.32",
+"分类":"电影&剧集&综艺&动漫&记录",
+"分类值":"1&2&3&4&20",
+"分类url":"https://222.186.150.32/vodshow/area/{area}/class/{class}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
 "免嗅":"1",
 "筛选":{
 "1":[

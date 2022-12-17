@@ -1,4 +1,3 @@
-//改为"搜索模式":"1",{去掉"搜索url"和"搜索后缀"(显示"搜索副标题")不支持快速搜索}。
 {
 "作者":"张弘",
 "站名":"在线189",
@@ -9,13 +8,13 @@
 "链接":"href=\"&&\"",
 "副标题":"text-right\">&&</a>",
 "搜索模式":"1",
-//"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
 "搜索数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"text-right\">&&</a>",
-//"搜索后缀":"/voddetail/",
+"搜索后缀":"/voddetail/",
 "线路数组":"playlist&&</li>",
 "线路标题":">&&</a>",
 "播放数组":"<ul class=\"stui-content__playlist clearfix \">&&</ul>",
