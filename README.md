@@ -24,7 +24,7 @@ https://raw.fastgit.org/用户名/仓库名/main/接口文件
 
 韩国
 
-https://ghproxy.com/https://raw.githubusercontent.com/
+https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 
 https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 
@@ -58,13 +58,35 @@ https://coding.net/
 
 https://gitcode.net/
 
-https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
+https://gitea.com/   仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
 
 https://agit.ai/
 
 https://notabug.org/
 
-6、TVBox各路大佬配置（排名不分先后）：
+6、短地址平台
+
+（1）https://short.io
+
+（2）http://88d.cn
+
+（3）https://77url.com
+
+（4）https://suowo.cn
+
+（5）https://6du.in
+
+（6）https://www.urlc.cn
+
+（7）https://59z.cn
+
+（8）https://suowo.cn
+
+（9）https://0a.fit/
+
+（10）https://www.urlc.cn/
+
+7、TVBox各路大佬配置（排名不分先后）：
 
 （1）唐三：https://hutool.ml/tang
 
@@ -114,7 +136,7 @@ https://notabug.org/
 
 （24）肥猫：http://我不是.肥猫.love:63
 
-7、随机轮换壁纸：
+8、随机轮换壁纸：
 
 （1）https://bing.img.run/rand.php
 
@@ -138,18 +160,6 @@ https://notabug.org/
 
 （11）https://pictures.catvod.eu.org/
 
-8，短地址平台
-（1）https://short.io
-（2）http://88d.cn
-（3）https://77url.com
-（4）https://suowo.cn
-（5）https://6du.in
-（6）https://www.urlc.cn
-（7）https://59z.cn
-（8）https://suowo.cn
-（9）https://0a.fit/
-（10）https://www.urlc.cn/
-
-以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集Box，自用请勿宣传。
+本页面只是收集Box，自用请勿宣传。
 
 所有资源全部搜集于网络
