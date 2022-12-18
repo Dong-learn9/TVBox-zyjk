@@ -1,0 +1,5 @@
+XYQBiu通过github开源仓库https://github.com/Tangsan99999/TvJar中的XBiubiu.java进行二次魔改编译，
+
+XYQHiker通过海阔视界开源代码移植而来,https://github.com/qiusunshine/hikerView。
+
+感谢大佬的开源才有了本扩展插件，如果你喜欢请上github多支持各开源大佬。

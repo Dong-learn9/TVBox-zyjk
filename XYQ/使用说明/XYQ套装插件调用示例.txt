@@ -1,0 +1,8 @@
+//目前提供TVBox外挂调用，如果你有能力可以合入你的jar包里
+
+//XYQBiu 调用示例
+{"key": "csp_XYQBiu_影视工场","name":"影视工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaoXYQ/影视工场.json","jar":"clan://TVBox/XYQPlugin.jar"},
+
+//XYQHiker 调用示例
+{"key": "csp_XYQHiker_影视工场","name":"影视工场(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaoXYQ/影视工场.json","jar":"clan://TVBox/XYQPlugin.jar"},
+        
