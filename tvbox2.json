@@ -26,8 +26,6 @@
 {"key":"一起看","name":"一起看〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/cs.jar"},
 {"key":"csp_Lib","name":"LIBVIO〔sp〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Bili","name":"哔哩套餐〔sp〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/哔哩哔哩.json"},
-
 {"key":"csp_Yj1211","name":"️直播合集〔sp〕","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "抖音小姐姐","name": "抖音精选〔sp〕","type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./JAR/liu673cn2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
 
@@ -62,8 +60,9 @@
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/虎牙直播.js"},
 {"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/JustLive.js"},
 
-{"key": "Bili","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩套餐1.json"},
-{"key": "Bilibi","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩哔哩.json"},
+{"key":"csp_Bili","name":"哔哩套餐（XB）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/哔哩哔哩.json"},
+{"key": "Bili","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩套餐.json"},
+{"key": "Bilibi","name": "哔哩套餐（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XB/哔哩套餐1.json"},
 {"key": "演唱会","name": "演唱会（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/演唱会.json"},
 {"key": "戏曲","name": "戏曲（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/戏曲.json"},
 {"key": "MV","name": "歌曲MV（XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./XB/歌曲MV.json"},
