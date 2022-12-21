@@ -2,10 +2,10 @@
 
 "spider":"./JAR/Yoursmile.jar",
 "lives":[
-{"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"https://epg.112114.xyz/"},
-//{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-//{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-//{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"https://epg.112114.xyz"},
+{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
 
