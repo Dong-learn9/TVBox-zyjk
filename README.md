@@ -195,6 +195,10 @@ https://notabug.org/
 
 （11）https://pictures.catvod.eu.org/
 
+9、工具
+
+（1）文本处理： http://www.txttool.com/
+
 本页面只是收集Box，自用请勿宣传。
 
 所有资源全部搜集于网络
