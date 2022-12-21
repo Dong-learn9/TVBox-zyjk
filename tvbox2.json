@@ -35,6 +35,7 @@
 {"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/浮生半日.json"},
 {"key":"csp_xBPQ_ 乐猪","name":"乐猪（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/乐猪影视.json"},
 {"key":"csp_xBPQ_短视频","name":"短视频（xBPQ）","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/短视频.json"},
+{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json"},
 
 //#XYQ#
 //{"key":"csp_Bili","name":"哔哩哔哩（XYQ）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/哔哩哔哩.json"},
@@ -74,6 +75,9 @@
 {"key":"小学课堂","name":"小学课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/小学课堂.json"},
 {"key":"初中课堂","name":"初中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/初中课堂.json"},
 {"key":"高中教育","name":"高中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/初中课堂.json"},
+
+
+{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/黄仓库.json"},
  
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
