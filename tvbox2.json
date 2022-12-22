@@ -31,7 +31,7 @@
 
 //#XBPQ#
 
-{"key":"csp_xBPQ_555电影","name":"555电影️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
+{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
 {"key":"csp_xBPQ_素白白","name":"素白白〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
 {"key":"csp_xBPQ_快看影视","name":"快看影视xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 {"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/浮生半日.json"},
