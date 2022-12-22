@@ -32,8 +32,8 @@
 "分类值": ""1&2&3&4",",
 "分类url": "https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "免嗅":"1",
-"筛选":"1"
-{
+"筛选":{
+"1":[
 "key":"class",
 "name":"剧情",
 "value":[
