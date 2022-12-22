@@ -33,7 +33,7 @@
 //"分类值":"1&2&3&4",
 //"分类url":"https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
-"分类url": "https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[firstPage=https://www.o8tv.com/vodtype/{cateId}.html]",
+"分类url": "https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 "key":"class",
