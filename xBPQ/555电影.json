@@ -26,10 +26,10 @@
 "播放列表":"<a&&/a>",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
-"分类":"Netflix&电影&连续剧&福利&动漫&综艺纪录",
+"分类":"Netflix&电影&连续剧&综艺纪录&动漫&福利",
 //"分类值":"1&2&124&4&3",
 //"分类url":"https://www.555ys1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"分类值": "label/netflix&vodtype/1&vodtype/2&vodtype/124&vodtype/4&vodtype/3",
+"分类值": "label/netflix&vodtype/1&vodtype/2&vodtype/3&vodtype/4&vodtype/124",
 "分类url": "https://www.555ys1.com/{cateId}/page/{catePg}.html",
 "免嗅":"1",
 "筛选":{
