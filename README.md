@@ -48,13 +48,13 @@ https://epg.112114.xyz/pp.xml
 
 以下为地址
 
-epg-DIYP接口：(http://epg.51zmt.top:8000/api/diyp/)
+epg-DIYP接口1：(hhttp://epg.51zmt.top:8000/api/diyp/)
 
 epg-DIYP接口2：(http://diyp.112114.xyz/)
 
-epg1：(https://epg.sec.st/epg.php/)
+epg-DIYP接口3：(https://epg.hicloud.co/epg.php/)
 
-epg2：(https://epg.hicloud.co/epg.php/)
+epg1：(https://epg.sec.st/epg.php/)
 
 epg3：(https://epg.pm/)
 
