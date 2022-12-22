@@ -52,23 +52,23 @@ epg-DIYP接口：(http://epg.51zmt.top:8000/api/diyp/)
 
 epg-DIYP接口2：(http://diyp.112114.xyz/)
 
-epg1：(https://epg.sec.st/epg.php)
+epg1：(https://epg.sec.st/epg.php/)
 
-epg2：(https://epg.hicloud.co/epg.php)
+epg2：(https://epg.hicloud.co/epg.php/)
 
-epg3：(https://epg.pm)
+epg3：(https://epg.pm/)
 
-epg4：(http://n33426t756.wicp.vip/diyp/epg.php)
+epg4：(http://n33426t756.wicp.vip/diyp/epg.php/)
 
-epg5：(http://www.diyp.top/diyp/epg.php)
+epg5：(http://www.diyp.top/diyp/epg.php/)
 
-总epg：(http://epg.51zmt.top:8000/e.xml)
+总epg：(http://epg.51zmt.top:8000/e.xml/)
 
-央视及各省卫视epg：(http://epg.51zmt.top:8000/cc.xml)
+央视及各省卫视epg：(http://epg.51zmt.top:8000/cc.xml/)
 
-地方及数字付费epg：(http://epg.51zmt.top:8000/difang.xml)
+地方及数字付费epg：(http://epg.51zmt.top:8000/difang.xml/)
 
-港澳台及海外epg：(http://epg.51zmt.top:8000/gat.xml)
+港澳台及海外epg：(http://epg.51zmt.top:8000/gat.xml/)
 
 epg6：(http://124.223.212.38:83/)
 
