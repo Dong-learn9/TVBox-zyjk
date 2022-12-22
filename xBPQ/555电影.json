@@ -26,10 +26,10 @@
 "播放列表":"<a&&/a>",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
-"分类":"电影&连续剧&综艺&动漫",
+//"分类":"电影&连续剧&综艺&动漫",
 //"分类值":"1&2&3&4",
 //"分类url":"https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"分类值": ""1&2&3&4",",
+"分类": ""电影$1#电视剧$2#综艺$3#动漫$4",",
 "分类url": "https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "免嗅":"1",
 "筛选":{
