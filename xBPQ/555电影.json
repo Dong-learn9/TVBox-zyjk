@@ -8,6 +8,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"note\">&&</div>",
+
 "搜索url":"https://www.o8tv.com/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索数组":"module-item\">&&</a>",
@@ -26,12 +27,13 @@
 "播放列表":"<a&&/a>",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
+"免嗅":"1",
+
 //"分类":"电影&连续剧&综艺&动漫",
 //"分类值":"1&2&3&4",
 //"分类url":"https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"分类": ""电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
 "分类url": "https://www.o8tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[firstPage=https://www.o8tv.com/vodtype/{cateId}.html]",
-"免嗅":"1",
 "筛选":{
 "1":[
 "key":"class",
