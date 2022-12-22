@@ -30,6 +30,7 @@
 {"key": "抖音小姐姐","name": "抖音精选〔sp〕","type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./JAR/liu673cn2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
 
 //#XBPQ#
+{"key":"csp_xBPQ_COKEMV","name":"COKEMV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/COKEMV.json"},
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光影院〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蓝光影院.json"},
 {"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
 {"key":"csp_xBPQ_素白白","name":"素白白〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
