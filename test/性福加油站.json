@@ -30,7 +30,7 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 //"分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-"分类":"国产之光你$1#高清爽片$20#日本命进口$5#急速视频$40",
+"分类":"国产之光$1#高清爽片$20#日本命进口$5#急速视频$40",
 //"分类url":"http://dmhsck.cc/vodtype/{cateId}-{catePg}/pjax/YES.html"
-"分类url":"https://xingfu.bar/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+"分类url":"https://xingfu.bar/index.php/vod/show/id/{cateId}/page/{catePg}/pjax/YES.html"
 }
