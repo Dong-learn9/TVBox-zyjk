@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"厂长资源",
-"主页url":"https://www.c-zzy.com/",
+"主页url":"https://www.czzy01.com/",
 "数组":"<li>&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"alt=\"&&\"",
@@ -26,9 +26,11 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<[替换:立即播放>>空]",
 "播放链接":"href=\"&&\"",
+//"分类url":"https://www.czzy01.com/{cateId}/page/{catePg}",
+//"分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#高分影视$gaofenyingshi#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju#动漫$dm",
 "分类":"站长推荐&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影",
 "分类值":"zhanchangtuijian&dyy&dianshiju&dohua&guochanju&rj&hj&mj&hwj&eluosidianying&jianadadianying&huayudianying&yindudianying&ribendianying&meiguodianying&faguodianying&yingguodianying&hanguodianying",
-"分类url":"https://www.c-zzy.com/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
+"分类url":"https://www.czzy01.com/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
 "筛选":{
 "dyy":[
 {

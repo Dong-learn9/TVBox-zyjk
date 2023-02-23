@@ -7,7 +7,7 @@
 "标题":"title=\"&&\"",
 "副标题":"text-right\">&&</span>",
 "链接":"href=\"&&\"",
-"线路数组":"#playlist&&</li>",
+"线路数组":"#playlist&&</li>[替换:aliyun>>阿里云]",
 "线路标题":">&&<",
 "影片类型":"关键词：&&</p>",
 "导演":"导演：&&</p>",
@@ -18,7 +18,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "播放链接前缀":"https://fositv.com",
-"搜索url":"https://fositv.com/vod_______search/{wd}----------{pg}---.html",
+"搜索url":"https://fositv.com/vod______________________________search/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"<li class=\"clearfix\">&&</li>",
 "搜索图片":"data-original=\"&&\"",
@@ -26,7 +26,7 @@
 "搜索副标题":"text-right\">&&</span>",
 "搜索链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录$5",
-"分类url":"https://fositv.com/vod_______show/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"分类url":"https://fositv.com/vod______________________________show/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "免嗅":"1",
 "筛选":{
 "1":[

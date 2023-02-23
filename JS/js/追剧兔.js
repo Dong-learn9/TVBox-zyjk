@@ -1,23 +1,39 @@
+// 网址发布页 https://fb.pan.lu/
+// 搜索安全验证
 var rule={
     title:'追剧兔',
-    host:'https://www.zjtu.cc',
-    // homeUrl:'/',
-    url:'/vodshow/fyclass--------fypage---.html',
-    searchUrl:'/vodsearch/**----------fypage---.html',
+    host:'https://www.sstv.pw',
+    // url:'/vodshow-fyclass/page/fypage/',
+    url:'/vodshow-fyclassfyfilter/',
+    filterable:1,//是否启用分类筛选,
+    filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
+    filter:{
+        "1":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"动作","v":"/class/动作"},{"n":"喜剧","v":"/class/喜剧"},{"n":"爱情","v":"/class/爱情"},{"n":"科幻","v":"/class/科幻"},{"n":"恐怖","v":"/class/恐怖"},{"n":"剧情","v":"/class/剧情"},{"n":"战争","v":"/class/战争"},{"n":"魔幻","v":"/class/魔幻"},{"n":"悬疑","v":"/class/悬疑"},{"n":"犯罪","v":"/class/犯罪"},{"n":"灾难","v":"/class/灾难"},{"n":"冒险","v":"/class/冒险"},{"n":"同性","v":"/class/同性"},{"n":"惊悚","v":"/class/惊悚"},{"n":"动画","v":"/class/动画"},{"n":"奇幻","v":"/class/奇幻"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
+        "2":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"古装","v":"/class/古装"},{"n":"战争","v":"/class/战争"},{"n":"青春","v":"/class/青春"},{"n":"偶像","v":"/class/偶像"},{"n":"喜剧","v":"/class/喜剧"},{"n":"家庭","v":"/class/家庭"},{"n":"犯罪","v":"/class/犯罪"},{"n":"动作","v":"/class/动作"},{"n":"奇幻","v":"/class/奇幻"},{"n":"剧情","v":"/class/剧情"},{"n":"同性","v":"/class/同性"},{"n":"惊悚","v":"/class/惊悚"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
+        "3":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"搞笑","v":"/class/搞笑"},{"n":"晚会","v":"/class/晚会"},{"n":"音乐","v":"/class/音乐"},{"n":"游戏","v":"/class/游戏"},{"n":"八卦","v":"/class/八卦"},{"n":"生活","v":"/class/生活"},{"n":"真人秀","v":"/class/真人秀"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
+        "4":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"番剧","v":"/class/番剧"},{"n":"侦探","v":"/class/侦探"},{"n":"热血","v":"/class/热血"},{"n":"搞笑","v":"/class/搞笑"},{"n":"科幻","v":"/class/科幻"},{"n":"剧情","v":"/class/剧情"},{"n":"同性","v":"/class/同性"},{"n":"惊悚","v":"/class/惊悚"},{"n":"动画","v":"/class/动画"},{"n":"奇幻","v":"/class/奇幻"},{"n":"恋爱","v":"/class/恋爱"},{"n":"古风","v":"/class/古风"},{"n":"武侠","v":"/class/武侠"},{"n":"动态漫画","v":"/class/动态漫画"},{"n":"亲子","v":"/class/亲子"},{"n":"益智","v":"/class/益智"},{"n":"励志","v":"/class/励志"},{"n":"其他","v":"/class/其他"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
+        "21":[{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}]
+    },
+    searchUrl:'/so/page/fypage/wd/**/?wd=**',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
-    filterable:0,//是否启用分类筛选,
-    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-        'User-Agent':'PC_UA',
-        // "Cookie": "searchneed=ok"
+    headers:{
+        'User-Agent':'PC_UA'
     },
-    class_name:'电影&剧集&综艺&动漫&纪录',
-    class_url:'1&2&3&4&21',
-    lazy:'',
+    class_parse: '.has-sub:eq(0)&&ul&&li;a&&Text;a&&href;/vodshow-(\\d+)/',
+    lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     limit:6,
-    推荐:'.vodlist;.pack-ykpack;a&&title;.bj.eclazy&&data-original;.pack-prb&&Text;a&&href',
-    double:true, // 推荐内容是否双层定位
-    一级:'.pack-ykpack;a&&title;.bj.eclazy&&data-original;.pack-prb&&Text;a&&href',
-    二级:{"title":"h1&&title;.s-top-info-title&&Text","img":".g-playicon.s-cover-img&&img&&src","desc":".data:eq(0)&&Text;.data:eq(1)&&Text;.data:eq(2)&&Text;.data:eq(3)&&Text","content":".item-desc&&Text","tabs":".channelname.swiper-slide","lists":".play_list_box:eq(#id)&&.content_playlist li"},
-    搜索:'.pack-packcover.returl.list-top-b;a&&title;.bj.eclazy&&data-original;.pack-prb&&Text;a&&href',
+    推荐:'.zmovo-teams;*;*;*;*;*',
+    double:true,//是否双层列表定位,默认false
+    一级:'div.item;.zmovo-team-title&&a&&Text;img&&src;h4&&Text;.ttw&&a&&href',
+    二级:{
+        "title":"h2&&Text;#catmenu&&li:eq(2)&&Text",
+        "img":"",
+        "desc":"#catmenu&&li:eq(1)&&Text;;;#catmenu&&li:eq(4)&&Text;",
+        "content":"#catmenu&&li:eq(5)&&Text",
+        '重定向':'js:let HOST="https://www.sstv.pw";let url = HOST+html.match(/"(.*?)"/)[1];log("重定向到:"+url);html = request(url)',
+        "tabs":"ul.nav&&li",
+        "lists":".pagination:eq(#id) li"
+    },
+    搜索: '*',
 }

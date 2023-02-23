@@ -1,13 +1,13 @@
 {
 "作者":"张弘",
 "站名":"LIBVIO",
-"主页url":"https://www.libvio.fun",
+"主页url":"https://www.libvio.me",
 "数组":"class=\"stui-vodlist__box&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url":"https://libvio.fun/search/{wd}----------{pg}---.html",
+"搜索url":"https://libvio.me/search/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索二次截取":"",
 "搜索数组":"class=\"stui-vodlist__box&&</div>",
@@ -27,7 +27,7 @@
 "播放标题":">&&</a>",
 "播放链接":"href=\"&&\"",
 "分类":"电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-"分类url":"https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {

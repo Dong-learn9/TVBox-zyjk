@@ -1,12 +1,12 @@
 {
 "作者":"张弘",
 "站名":"UM影院",
-"主页url":"https://www.umkan.com/",
+"主页url":"https://www.umkan.cc/",
 "二次截取":"class=\"module-items&&id=\"page",
 "副标题":"<div class=\"module-item-note\">&&</div>",
 "线路数组":"class=\"module-tab-item tab-item&&</div>",
 "线路标题":"<span>&&</span>",
-"搜索url":"https://www.umkan.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"搜索url":"https://www.umkan.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
 "搜索模式":"1",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"alt=\"&&\"",
@@ -23,7 +23,7 @@
 "免嗅":"1",
 
 "分类":"电影$1#连续剧$2#动漫$4#综艺$3#记录$29",
-"分类url":"https://www.umkan.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+"分类url":"https://www.umkan.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
 "筛选":
 {
 "1":[
