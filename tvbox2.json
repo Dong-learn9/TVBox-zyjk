@@ -1,6 +1,6 @@
 {
 
-"spider":"./JAR/fm.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+"spider":"./JAR/fm1.jar;md5;613066B0150C902B3D51BDE7A433BE83",
 "lives":[
 //{"name":"综合一","type":0,"url":"./TV/live.txt","epg":"https://epg.hicloud.co/epg.php?ch={name}&date={date}"},
 {"name":"综合五","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
