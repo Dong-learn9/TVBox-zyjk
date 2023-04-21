@@ -61,7 +61,7 @@
 //#XYQ#
 //{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/555影视1.json"},
 //{"key":"csp_Bili","name":"哔哩哔哩（XYQ）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/哔哩哔哩.json"},
-{"key": "Bilibi","name": "哔哩套餐（XYQ）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQ/哔哩套餐.json","jar":"./JAR/Yoursmile2"},
+{"key": "Bilibi","name": "哔哩套餐（XYQ）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQ/哔哩套餐.json","jar":"./JAR/Yoursmile.jar;md5;3FF662D44D19110691030E502FA92833"},
 {"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/斗鱼直播.json"},
 {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/虎牙直播.json"},
 {"key":"csp_XYQBiu_网易CC直播","name":"网易直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/网易CC直播.json"},
