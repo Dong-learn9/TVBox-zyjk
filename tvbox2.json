@@ -57,7 +57,7 @@
 //{"key":"XBPQ_fant","name":"饭团影院（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"./xBPQ/饭团影院.json"},
 {"key":"XBPQ_fant2","name":"饭团高清（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"./xBPQ/饭团影视HD.json"},
 
-{"key":"mtv_xp_学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./xBPQ/学习课堂.json"},
+{"key":"mtv_xp_学习课堂","name":"学习课堂（xBPQ）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./xBPQ/学习课堂.json","jar":"./JAR/xuexiketang.jar"},
 
 //#XYQ#
 //{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/555影视1.json"},
@@ -96,9 +96,9 @@
 {"key": "球类","name": "球类合集（XB）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XB/球类.json"},
 {"key":"幼儿乐园","name":"幼儿乐园（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/幼儿乐园.json"},
 {"key":"少儿教育","name":"少儿教育（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/少儿教育.json"},
-{"key":"小学课堂","name":"小学课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/小学课堂.json"},
-{"key":"初中课堂","name":"初中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/初中课堂.json"},
-{"key":"高中教育","name":"高中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/高中课堂.json"},
+//{"key":"小学课堂","name":"小学课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/小学课堂.json"},
+//{"key":"初中课堂","name":"初中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/初中课堂.json"},
+//{"key":"高中教育","name":"高中课堂（XB）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XB/高中课堂.json"},
 
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
