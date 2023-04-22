@@ -2,7 +2,7 @@
 
 "spider":"./JAR/fm.jar;md5;613066B0150C902B3D51BDE7A433BE83",
 "lives":[
-//{"name":"综合一","type":0,"url":"./TV/live.txt","epg":"https://epg.hicloud.co/epg.php?ch={name}&date={date}"},
+{"name":"综合一","type":0,"url":"./TV/live.txt","epg":"https://epg.hicloud.co/epg.php?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合五","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -58,7 +58,6 @@
 {"key":"XBPQ_fant2","name":"饭团高清（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"./xBPQ/饭团影视HD.json"},
 
 {"key":"mtv_xp_学习课堂","name":"学习课堂（xBPQ）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./xBPQ/学习课堂.json"},
-//,"jar":"./JAR/xuexiketang.jar"
 //#XYQ#
 //{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/555影视1.json"},
 //{"key":"csp_Bili","name":"哔哩哔哩（XYQ）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/哔哩哔哩.json"},
