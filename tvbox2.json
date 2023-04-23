@@ -1,6 +1,6 @@
 {
 
-"spider":"./JAR/fm.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+"spider":"./JAR/fm.jar;md5;5E5DEB59AEE747D99B4885E26DFEBBFA",
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合五","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -15,6 +15,13 @@
 
 //#爬虫#
 {"key":"csp_AppTT","name":"图图影视〔sp〕","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key": "csp_BuLei","name":"布雷影视〔sp〕","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/alitoken"},
+
+{"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"},
+
+{"key":"csp_app_源头","name":"🐈┃肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
 
 //{"key":"Kuaikan","name":"快看影视〔sp〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -375,23 +382,6 @@
 },
 
 
-// 每日一言 (随机显示欢迎语)
-"dairyWords":[
-{
-"name":"rating",
-"request":{
-"method":"GET",
-"url":{
-"raw":"https://saying.api.azwcl.com/saying/get"
-}
-},
-"response":{
-"result":"$.data.content"
-},
-"expires":"43200"
-}
-],
-
 //首页推荐视频(IMDbPopularMovies)
 "recommend":[{
 "name":"imdb",
@@ -429,7 +419,7 @@
 "value":"https://movie.douban.com/"
 }],
 "url":{
-"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
 }
 },
 "response":{
