@@ -14,7 +14,11 @@
 "sites":[
 
 //#爬虫#
-{"key":"csp_AppTT","name":"图图影视〔sp〕","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+//{"key":"csp_AppTT","name":"图图影视〔sp〕","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+
+{"key": "Tutu_spider","name": "图图影视", "api": "csp_TutuYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW","jar":"./JAR/qe.jar;md5;6C68E5F9757D1C0E4D5DD966A4ADAA01"},
+
+{"key": "百影视频","name": "百影视频","type": 3,"api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0,"ext": "http://47.104.99.175","jar":"./JAR/qe.jar;md5;6C68E5F9757D1C0E4D5DD966A4ADAA01"},
 
 {"key":"Kuaikan","name":"快看影视〔sp〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -27,7 +31,7 @@
 
 {"key":"csp_Kunyu77","name":"七七影视〔sp〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Czsapp","name":"厂长资源〔sp〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4"},
+{"key":"csp_Czsapp","name":"厂长资源〔sp〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/fty.jar;md5;BACE77C91270566CA6A959B935EFBD0D"},
 
 //{"key":"csp_YQKAPP","name":"一起看 〔sp〕","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 
