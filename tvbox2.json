@@ -15,9 +15,7 @@
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣推荐[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-//{"key":"csp_AppTT","name":"图图影视〔sp〕","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-
-{"key": "Tutu_spider","name": "图图影视〔sp〕", "api": "csp_TutuYs","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW","jar":"./JAR/qe.jar;md5;6847077f896f53976496662c3836f349"},
+{"key":"Tutu_spider","name":"图图影视〔sp〕","api":"csp_TutuYs","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"./JAR/qe.jar;md5;6847077f896f53976496662c3836f349"},
 
 {"key":"csp_LiteApple","name":"苹果影视〔sp〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
