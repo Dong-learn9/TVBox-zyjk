@@ -18,7 +18,9 @@
 {"key": "csp_appys_酷影","name": "酷影〔sp〕","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":" http://kuyun.realku.cn/api.php/app/
 "},
 
-{"key":"Tutu_spider","name":"图图影视〔sp〕","api":"csp_TutuYs","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"./JAR/qe.jar;md5;4C6366C0605D544297EE621109EB36A4"},
+{"key": "棉花影视","name": "棉花影视","type": 3,"api": "csp_MianHua","searchable": 1,"playerType": 2, "quickSearch": 1,"filterable": 0,"ext": "https://api.haokantj.com","jar":"./JAR/qe.jar;md5;a264d33e664119fed5af99338def9ca4"},
+
+{"key":"Tutu_spider","name":"图图影视〔sp〕","api":"csp_TutuYs","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"./JAR/qe.jar;md5;a264d33e664119fed5af99338def9ca4"},
 
 {"key":"Kuaikan","name":"快看影视〔sp〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -31,8 +33,6 @@
 {"key":"csp_DiDuan" ,"name":"低端影视〔sp〕","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_Kunyu77","name":"七七影视〔sp〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"./JAR/qe.jar;md5;4C6366C0605D544297EE621109EB36A4"},
 
 //{"key":"csp_CZSPP","name":"厂长资源〔sp〕","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"./JAR/qe.jar;md5;4C6366C0605D544297EE621109EB36A4"},
 
