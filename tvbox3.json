@@ -25,10 +25,7 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
             "name": "gao"
         },
-      //  {
-            "url": "https://yydsys.top/duo/ali",
-            "name": "阿里精品专线"
-        }, 
+
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬线路"
@@ -53,7 +50,7 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
         },         
-       // { "url": "https://神器每日推送.tk/pz.json", "name": "每日神器"},
+       { "url": "https://神器每日推送.tk/pz.json", "name": "每日神器"},
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米暴脾气"
