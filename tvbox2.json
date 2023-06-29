@@ -13,6 +13,8 @@
 "sites":[
 //#爬虫#
 
+{"key":"csp_Lgyy","name":"蓝光影院〔sp〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+
 //{"key":"csp_LiteApple","name":"苹果影视〔sp〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "csp_appys_酷影","name": "酷影〔sp〕","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":" http://kuyun.realku.cn/api.php/app/
@@ -23,8 +25,6 @@
 //{"key":"Tutu_spider","name":"图图影视〔sp〕","api":"csp_TutuYs","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"./JAR/qe.jar;md5;a264d33e664119fed5af99338def9ca4"},
 
 {"key":"Kuaikan","name":"快看影视〔sp〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Lgyy","name":"蓝光影院〔sp〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣推荐[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
