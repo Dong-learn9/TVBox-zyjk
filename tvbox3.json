@@ -18,15 +18,19 @@
             "name": "肥猫线路"
         },
         {
-            "url": "https://yydsys.top/duo",
-            "name": "应用多多家庭版"
-        },
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
+            "name": "香雅情"
+        },   
         {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "name": "gao"
+        },
+      //  {
             "url": "https://yydsys.top/duo/ali",
             "name": "阿里精品专线"
         }, 
         {
-            "url": "http://饭太硬.ga/tv",
+            "url": "http://饭太硬.top/tv",
             "name": "饭太硬线路"
         },          
         {
@@ -49,13 +53,10 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
         },         
+       // { "url": "https://神器每日推送.tk/pz.json", "name": "每日神器"},
         {
-            "url": "http://101.34.67.237/config/1",
-            "name": "小雅线路"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊佬线路"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米暴脾气"
         },      
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
@@ -80,10 +81,6 @@
         {
             "url": "http://52bsj.vip:98/wuai",
             "name": "吾爱线路"
-        },
-        {
-            "url": "https://源享家.ml/45127",
-            "name": "源享家线路"
-        }   
+        }
     ]
 }
