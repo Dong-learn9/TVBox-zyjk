@@ -2,38 +2,38 @@
     "urls": [
 
        {
-            "url": "https://raw.kgithub.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json",
+            "url": "https://raw.kgithub.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json"，
             "name": "自用"
-        },
+        }，
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "http://pandown.pro/tvbox/tvbox.json"，
             "name": "技巧"
-        }, 
+        }， 
         { 
-            "url": "http://tvbo.run.goorm.site/tangs.json",
+            "url": "http://tvbo.run.goorm.site/tangs.json"，
             "name": "唐三线路1"
-        }, 
+        }， 
         { 
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp"，
             "name": "唐三线路2"
-        }, 
+        }， 
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"，
             "name": "肥猫线路"
-        },
+        }，
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json"，
             "name": "香雅情"
-        },   
+        }，   
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"，
             "name": "gao"
-        },
+        }，
 
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://饭太硬.top/tv"，
             "name": "饭太硬线路"
-        },          
+        }，          
                                                 
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
