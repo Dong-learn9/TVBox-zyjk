@@ -163,18 +163,23 @@
 ],
 
 
-"parses":[
-
-{"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+  "parses": [
     {
-      "name": "1",
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "✌️夜曲",
       "type": 1,
       "url": "http://xhww.fun:63/爱肥猫.php?url=",
       "ext": {
-        "flag": 
-[
+        "flag": [
           "qq",
           "腾讯",
           "qiyi",
@@ -213,7 +218,7 @@
       }
     },
     {
-      "name": "2",
+      "name": "稻香🌾",
       "type": 1,
       "url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
       "flag": [
@@ -240,7 +245,7 @@
       ]
     },
     {
-      "name": "3",
+      "name": "窗外🪟",
       "type": 1,
       "url": "http://ysjx.pingtouge.top//api//?key=bDJtCIVT3oe8bTN9eY&url=",
       "header": {
@@ -258,7 +263,7 @@
       }
     },
     {
-      "name": "4",
+      "name": "落叶🍂",
       "type": 1,
       "url": "https://110.42.2.98:33333//api//?key=6JsNUcM5473RcARVLg&url=",
       "flag": [
@@ -285,7 +290,7 @@
       ]
     },
     {
-      "name": "5",
+      "name": "25芒果🥭",
       "type": 1,
       "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
       "flag": [
@@ -295,7 +300,7 @@
       ]
     },
     {
-      "name": "6",
+      "name": "虾米🦐",
       "url": "http://162.14.106.28/API.php?url=",
       "type": 1,
       "ext": {
@@ -332,7 +337,7 @@
       }
     },
     {
-      "name": "7",
+      "name": "黄黄🍌",
       "type": 1,
       "url": "https://vip.xiaomaomi.tv//api.php?key=iknrzBCDIMPQRTY279&url=",
       "User-Agent": "Dart/2.18 (dart:io)",
@@ -360,7 +365,7 @@
       }
     },
     {
-      "name": "8",
+      "name": "爱酷👓",
       "type": 1,
       "url": "https://api.json.icu//api//?key=aad5c2c72819716157511ef080f8d05f&url=",
       "ext": {
@@ -492,10 +497,7 @@
 {"name":"盘古","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"17云","type":1,"url":"https://www.1717yun.com/jx/ty.php?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"8090","type":1,"url":"https://www.8090g.cn/?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"诺讯","type":1,"url":"https://www.nxflv.com/?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-
-
-],
+{"name":"诺讯","type":1,"url":"https://www.nxflv.com/?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}],
 
 
 "rules":[
