@@ -30,20 +30,13 @@
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬线路"
         },          
-        {
-            "url": "https://yydsys.top/duo/lm.json",
-            "name": "龙门线路"
-        },          
-        {
-            "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "蜂蜜线路"
-        },                                                        
+                                                
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长线路"
         },                
         {
-            "url": "https://agit.ai/leevi/apps/raw/branch/main/xpg.json",
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
             "name": "小苹果线路"
         },                     
         {
