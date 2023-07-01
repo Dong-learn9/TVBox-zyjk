@@ -11,7 +11,11 @@
         }, 
         { 
             "url": "http://tvbo.run.goorm.site/tangs.json",
-            "name": "唐三线路"
+            "name": "唐三线路1"
+        }, 
+        { 
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "唐三线路2"
         }, 
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
