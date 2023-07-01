@@ -55,7 +55,7 @@
 
 {"key":"直播","name":"电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 
-{"key":"csp_Yj1211","name":"️直播┃合集〔sp〕","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yj1211","name":"️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 //#XBPQ#
 {"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
@@ -69,7 +69,7 @@
 //{"key":"csp_xBPQ_短视频","name":"短视频（xBPQ）","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/短视频.json"},
 //{"key":"csp_xBPQ_追剧达人","name":"追剧达人（xBPQ）","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/追剧达人.json"},
 //{"key":"XBPQ_fant","name":"饭团影院（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"./xBPQ/饭团影院.json"},
-{"key":"XBPQ_fant2","name":"饭团┃高清（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":0,"searchable":0,"ext":"./xBPQ/饭团影视HD.json"},
+//{"key":"XBPQ_fant2","name":"饭团┃高清（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":0,"searchable":0,"ext":"./xBPQ/饭团影视HD.json"},
 
 //{"key":"drpy_js_追剧达人","name":"追剧达人[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/追剧达人.js"},
 //{"key":"drpy_js_360影视","name":"360影视[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/360影视.js"},
