@@ -1,39 +1,39 @@
 {
 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a5eaab0a824b174e0024d75e1d8731ff",
-//"spider":"./JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a5eaab0a824b174e0024d75e1d8731ff"，
+//"spider":"./JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff"，
 
 
 "lives":[
-{"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
-],
+{"name":"综合一"，"type":0，"url":"./TV/tvlive.txt"，"epg":"http://epg.112114.xyz/?ch={name}&date={date}"， "logo": "https://epg.112114.xyz/logo/{name}.png"}，
+{"name":"综合二"，"type":0，"url":"http://home.jundie.top:81/Cat/tv/live.txt"，"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}，
+{"name":"综合三"，"type":0，"url":"http://home.jundie.top:81/ray/tvlive.txt"，"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}，
+{"name":"综合四"，"type":0，"url":"https://xn--m7r412advb92j21st65a.tk/live.txt"，"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+]，
 
-//"wallpaper":"http://maoyingshi.cc/api.php",
+//"wallpaper":"http://maoyingshi.cc/api.php"，
 
 "sites":[
 //#爬虫#
 
-{"key": "csp_Czsapp", "name": "厂长┃SP","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1,"jar":"./JAR/xm.jar;md5;68468d6fd4914032bb8f3ad2b375b949"},
+{"key": "csp_Czsapp"， "name": "厂长┃SP"，"type": 3，"api": "csp_Czsapp"，"playerType": 2，"searchable": 1，"quickSearch": 1，"ext": "https://czzy.art/"，"filterable": 1，"jar":"./JAR/xm.jar;md5;68468d6fd4914032bb8f3ad2b375b949"}，
 
-{"key": "csp_fantuan","name": "饭团┃直连","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuan3.com"},
+{"key": "csp_fantuan"，"name": "饭团┃直连"，"type": 3，"api": "csp_Fantuan"，"searchable": 1，"quickSearch": 1，"filterable": 1，"ext": "https://www.fantuan3.com"}，
 
-{"key":"csp_Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
+{"key":"csp_Xinsj"，"name":"视觉┃直连"，"type":3，"api":"csp_Xinsj"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"https://www.6080yy3.com/"}，
 
-{"key":"csp_Auete","name":"奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete"，"name":"奥特┃直连"，"type": 3，"api":"csp_Auete"，"searchable":1，"quickSearch":1，"filterable":1}，
 
-{"key": "热播库", "name": "热播┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/热播.json" },
+{"key": "热播库"， "name": "热播┃BPQ"，"type": 3，"api": "csp_XBPQ"，"playerType": "1"，"ext": "http://xhww.fun:63/小米/源/热播.json" }，
 
-{"key": "瑞丰","name": "辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key": "瑞丰"，"name": "辣辣┃APP"，"type": 3，"api": "csp_AppYsV2"，"searchable": 1，"quickSearch": 1，"filterable": 1，"ext": "http://www.miniku.cc/xgapp.php/v2/"}，
 
-{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"http://xhww.fun:63/小米/源/虎虎.json"},
+{"key":"虎虎"，"name": "虎虎┃BPQ"，"type": 3，"api": "csp_XBPQ"，"ext":"http://xhww.fun:63/小米/源/虎虎.json"}，
 
-{"key": "🌀暴风","name": "暴风┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/暴风.json"},
-{"key": "测试2","name": "可可┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"},
+{"key": "🌀暴风"，"name": "暴风┃BPQ"，"type": 3，"api": "csp_XBPQ"，"playerType": "1"，"ext": "http://xhww.fun:63/小米/源/暴风.json"}，
+{"key": "测试2"，"name": "可可┃APP"，"type": 3，"api": "csp_AppYsV2"，"searchable": 1，"quickSearch": 1，"filterable": 1，"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"}，
 
-{"key": "测试","name": "落落┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://luoye.shop:66/api.php/app/"},
+{"key": "测试"，"name": "落落┃APP"，"type": 3，"api": "csp_AppYsV2"，"searchable": 1，"quickSearch": 1，"filterable": 1，"ext": "http://luoye.shop:66/api.php/app/"}，
 
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
