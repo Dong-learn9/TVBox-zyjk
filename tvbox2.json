@@ -1,6 +1,6 @@
 {
 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a5eaab0a824b174e0024d75e1d8731ff",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 //"spider":"./JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
 
 
@@ -57,8 +57,7 @@
 
 //{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-//{"key":"Dy555","name":"555┃TS
-","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar;md5;D2B098BCC98E45DCB68EF0B607FB3FA9"},
+//{"key":"Dy555","name":"555┃TS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar"},
 
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
