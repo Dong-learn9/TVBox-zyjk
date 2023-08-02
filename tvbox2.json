@@ -1,6 +1,6 @@
 {
 
-"spider":"http://xhww.fun:63/小米/0802.jar;md5;538304754b268f733245e29504f03254",
+"spider":"https://www.bestpvp.site/关注码上放生/jar包;md5;7E3728D966D4EF703D3A250D5267B99B",
 //"spider":"./JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
 
 
@@ -18,13 +18,13 @@
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1},
 
-{"key": "csp_Bttoo", "name": "👓猫-🔺┃Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1,"jar": "https://www.bestpvp.site/关注码上放生/jar包"},
+{"key": "csp_Bttoo", "name": "👓猫-🔺┃Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
 
 {"key": "小鸭","name": "小鸭┃网盘","type": 3,"api": "http://smallmi.xiaohewanwan.love:63/JS/lib/alist.min.js","ext": "http://xhww.fun:63/小米/源/alist.json","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"http://xhww.fun:63/小米/源/虎虎.json","jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c"},
+{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"http://xhww.fun:63/小米/源/虎虎.json"},
 
 {"key": "瑞丰","name": "辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
@@ -32,13 +32,13 @@
 
 { "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key": "飞速", "name": "👓猫-🚄┃影探┃影视", "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://alist.xn--z7x900a.love:63/V2影探.js","jar": "https://www.bestpvp.site/关注码上放生/jar包"},
+{"key": "飞速", "name": "👓猫-🚄┃影探┃影视", "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"},
 
 {"key": "csp_kuying","name": "酷酷┃直连","type": 3,"api": "csp_Kuying","searchable": 1,"quickSearch": 1,"changeable": 1},
 
 {"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
 
-{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip" ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
 //{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
