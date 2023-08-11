@@ -22,8 +22,6 @@
 
 //{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/蘑菇.json"},
 
-
-
 {"key": "csp_Bttoo", "name": "Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
@@ -53,7 +51,7 @@
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
-{"key":"py_cctv","name": "央视┃大全","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py""jar":"https://weixine.net/./YSC.jar"},
+{"key":"py_cctv","name": "央视┃大全","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py""jar":"https://weixine.net/YSC.jar"},
 
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
