@@ -40,10 +40,6 @@
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长线路"
         }, 
-       // {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "小苹果线路"
-        },
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
@@ -55,26 +51,6 @@
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "月光宝盒"
-        },
-      //  {
-            "url": "https://la.kstore.space/download/2863/01.txt",
-            "name": "潇洒线路"
-        },
-      //  {
-            "url": "https://la.kstore.space/download/2883/0110.txt",
-            "name": "蚂蚁论坛线路"
-        },
-       // {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风线路"
-        },
-      //  {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "云星日记"
-        },        
-       // {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "吾爱线路"
         }
     ]
 }
