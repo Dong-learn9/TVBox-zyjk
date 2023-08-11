@@ -20,6 +20,8 @@
 
 {"key": "csp_Bttoo", "name": "Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
+{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
+
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
 
 {"key": "小鸭","name": "小鸭┃网盘","type": 3,"api": "http://smallmi.xiaohewanwan.love:63/JS/lib/alist.min.js","ext": "http://xhww.fun:63/小米/源/alist.json","searchable": 1,"quickSearch": 1,"filterable": 0},
