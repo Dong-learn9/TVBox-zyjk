@@ -64,7 +64,7 @@
 
 
 
-{"key":"py_cctv","name": "央视┃大全","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py""jar":"https://weixine.net/YSC.jar"},
+{"key":"py_cctv","name": "央视┃大全","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py","jar":"https://weixine.net/YSC.jar"},
 
 {"key":"csp_Yj1211","name":"️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
