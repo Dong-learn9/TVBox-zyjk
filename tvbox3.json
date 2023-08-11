@@ -7,16 +7,18 @@
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米暴脾气"
+            "name": "小米"
         },      
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "技巧"
         },
 {"name":"TVBOX最新接口","url":"http://aa1.kkwk123.top/app/api.json"},
-  
 {"name":"爬虫接口","url":"https://dxawi.github.io/0/0.json"},
 {"name":"运输车","url":"https://weixine.net/ysc.json"},
+
+{"name":"时光机","url":"https://www.bestpvp.site/关注码上放生/时光机"},
+
 
 
         {
@@ -34,6 +36,18 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬线路"
+        },
+
+
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "FongMi"
+        },
+
+        {
+            "url": "
+http://home.jundie.top:81/top98.json",
+            "name": "俊于"
         },
                                                 
         {

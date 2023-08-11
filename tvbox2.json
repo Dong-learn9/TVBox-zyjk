@@ -34,24 +34,26 @@
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 
-{"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
-
 {"key": "csp_FanYY", "name": "玩偶┃影视", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://127.0.0.1:9978/file/tm/token.txt"}, 
+{"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 
 //{ "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key": "飞速", "name": "影探┃影视", "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"},
+//{"key": "飞速", "name": "影探┃影视", "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"},
 
 //{"key": "csp_kuying","name": "酷酷┃直连","type": 3,"api": "csp_Kuying","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"http://xhww.fun:63/小米/0802.jar"},
 
-{"key": "酷酷", "name": "酷酷┃App", "type": 3, "api": "csp_Kuying", "searchable": 1, "quickSearch": 1, "changeable": 1},
+//{"key": "酷酷", "name": "酷酷┃App", "type": 3, "api": "csp_Kuying", "searchable": 1, "quickSearch": 1, "changeable": 1},
 
-{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
+//{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
 
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
-//{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
+{"key":"py_cctv","name": "央视┃大全","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv.py""jar":"https://weixine.net/py/py_cctv.py"},
+
+
+{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
 //{"key":"Dy555","name":"555┃TS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar"},
 
@@ -62,7 +64,6 @@
 {"key":"csp_Ysj","name":"异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 
 {"key":"csp_Anime1","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
-
 
 {"key":"csp_Yj1211","name":"️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
