@@ -13,26 +13,23 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "技巧"
         },
-       // { 
-            "url": "http://tvbo.run.goorm.site/tangs.json",
-            "name": "唐三线路1"
-        },
-       // { 
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "唐三线路2"
-        },
+{"name":"TVBOX最新接口","url":"http://aa1.kkwk123.top/app/api.json"},
+  
+{"name":"爬虫接口","url":"https://dxawi.github.io/0/0.json"},
+{"name":"运输车","url":"https://weixine.net/ysc.json"},
+
+
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "肥猫线路"
         },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
-            "name": "香雅情"
-        },
+{"name":"香雅晴","url":"https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json"},
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
             "name": "gao"
         },
+
+{"name":"大聪明","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
 
         {
             "url": "http://饭太硬.top/tv",
@@ -59,23 +56,23 @@
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "月光宝盒"
         },
-        {
+      //  {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
         },
-        {
+      //  {
             "url": "https://la.kstore.space/download/2883/0110.txt",
             "name": "蚂蚁论坛线路"
         },
-        {
+       // {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风线路"
         },
-        {
+      //  {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "云星日记"
         },        
-        {
+       // {
             "url": "http://52bsj.vip:98/wuai",
             "name": "吾爱线路"
         }

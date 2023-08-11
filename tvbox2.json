@@ -1,6 +1,6 @@
 {
 
-"spider":"https://www.bestpvp.site/关注码上放生/jar包",
+"spider":"https://www.bestpvp.site/关注码上放生/jar包;md5;18b8df1e0f7813098c1e70979a264aad",
 //"spider":"./JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
 
 
@@ -15,6 +15,10 @@
 
 "sites":[
 //#爬虫#
+
+{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
+
+//{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c","api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/蘑菇.json"},
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.cc/","filterable": 1},
 
