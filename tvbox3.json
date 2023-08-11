@@ -6,14 +6,18 @@
             "name": "自用"
         },
         {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米暴脾气"
+        },      
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "技巧"
         },
-        { 
+       // { 
             "url": "http://tvbo.run.goorm.site/tangs.json",
             "name": "唐三线路1"
         },
-        { 
+       // { 
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "唐三线路2"
         },
@@ -39,7 +43,7 @@
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长线路"
         }, 
-        {
+       // {
             "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
             "name": "小苹果线路"
         },
@@ -51,10 +55,6 @@
             "url": "https://神器每日推送.tk/pz.json",
             "name": "每日神器"
         },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米暴脾气"
-        },      
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "月光宝盒"
