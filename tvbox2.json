@@ -18,12 +18,12 @@
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
+//{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.moguys.xyz/api.php/app/"},
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.cc/","filterable": 1},
 
 
-//{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/蘑菇.json"},
+{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/蘑菇影视.json"},
 
 {"key": "csp_Bttoo", "name": "Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
