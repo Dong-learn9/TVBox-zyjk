@@ -21,17 +21,13 @@
 //{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.gvideo.me/api.php/app/"},
 
 {"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.gvideo.me/api.php/app/"},
+{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/蘑菇影视.json"},
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.cc/","filterable": 1},
-
-
-//{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/蘑菇影视.json"},
 
 {"key": "csp_Bttoo", "name": "Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
-
-{"key": "小鸭","name": "小鸭┃网盘","type": 3,"api": "http://smallmi.xiaohewanwan.love:63/JS/lib/alist.min.js","ext": "http://xhww.fun:63/小米/源/alist.json","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"http://xhww.fun:63/小米/源/虎虎.json"},
 
@@ -42,6 +38,8 @@
 {"key": "csp_FanYY", "name": "玩偶┃影视", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://127.0.0.1:9978/file/tm/token.txt"}, 
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
+
+{"key": "小鸭","name": "小鸭┃网盘","type": 3,"api": "http://smallmi.xiaohewanwan.love:63/JS/lib/alist.min.js","ext": "http://xhww.fun:63/小米/源/alist.json","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 //{ "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
@@ -56,7 +54,7 @@
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
-{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4127/PY/央视片库.py","jar":"https://weixine.net/YSC.jar"},
+{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4127/PY/央视片库.py","jar":"https://weixine.net/YSC.jar"},
 
 
 //{"key":"Dy555","name":"555┃TS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar"},
