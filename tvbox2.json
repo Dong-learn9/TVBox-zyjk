@@ -49,13 +49,26 @@
 //{"key": "csp_kuying","name": "酷酷┃直连","type": 3,"api": "csp_Kuying","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"http://xhww.fun:63/小米/0802.jar"},
 
 //{"key": "酷酷", "name": "酷酷┃App", "type": 3, "api": "csp_Kuying", "searchable": 1, "quickSearch": 1, "changeable": 1},
-
+    {
+      "key": "秒看资源",
+      "name": "秒看┃切片",
+      "type": 1,
+      "api": "https://mkzy.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "综艺",
+        "电视剧",
+        "电影",
+        "动漫"
+      ]
+    },
 
 
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
-{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py","jar":"./JAR/YSC.jar"},
+{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
  {
       "key": "drpy_js_大豆",
