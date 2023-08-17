@@ -12,6 +12,6 @@
   "副标题": "module-item-text\">&&</div>",
   "搜索url": "http://www.fywasu.net/mogusearch/{wd}-------------.html",
   "线路标题": "<span>&&</small>[替换:</span><small>>>更新至]+集",
-  "分类url": "http://www.fywasu.net/mogutype/1{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mk",
+  "分类url": "http://www.fywasu.net/mogushow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mk",
   "分类": "电影$1#国产剧$13#韩剧$14#美剧$15#泰剧$24#台剧$20#综艺$4#动漫$3"
 }
