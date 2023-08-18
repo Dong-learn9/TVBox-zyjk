@@ -64,8 +64,8 @@
       "key": "drpy_js_子子影视",
       "name": "子子┃[js]",
       "type": 3,
-      "api": "./JS/lib/drpy2.min.js",
-      "ext": "./JS/js/子子影视.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
     },
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
