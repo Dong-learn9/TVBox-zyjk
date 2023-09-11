@@ -22,7 +22,7 @@
 
  {"key": "龟龟","name": "龟龟┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/达达龟.json"},
 
-{"key": "探探","name": "探探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
+//{"key": "探探","name": "探探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
 
 {"key": "陌陌","name": "陌陌┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 
