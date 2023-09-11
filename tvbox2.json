@@ -18,7 +18,7 @@
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
+{"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy1.min.js","ext": "./JS/js/荐片.js"},
 
  {"key": "龟龟","name": "龟龟┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/达达龟.json"},
 
