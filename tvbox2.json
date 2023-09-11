@@ -44,6 +44,14 @@
 
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
+    {
+      "key": "drpy_js_蓝光影院",
+      "name": "蓝光┃影院",
+      "type": 3,
+      "api": "./JS/lib/drpy2.min.js",
+      "ext": "./JS/js/蓝光影院.js"
+    },
+
 {"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
 {"key": "drpy_js_大豆","name": "大豆┃影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
