@@ -1,6 +1,6 @@
 {
 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
 
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -44,7 +44,7 @@
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 
-{"key": "秒看资源","name": "秒看┃切片","type": 1,"api": "https://mkzy.vip/api.php/provide/vod","searchable": 1,"quickSearch": 1,"categories": ["综艺","电视剧","电影","动漫"]},
+{"key": "秒看资源","name": "秒看┃切片","type": 1,"api": "https://www.xy1080.net/api.php/provide/vod/from/XYHD","searchable": 1,"quickSearch": 1,"categories": ["综艺","电视剧","电影","动漫"]},
 
 //{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
