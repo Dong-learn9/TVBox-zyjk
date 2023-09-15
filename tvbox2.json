@@ -44,8 +44,9 @@
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 
-{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/星星影视.js"},
+//{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/星星影视.js"},
 
+{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/星星影院.json"},
 
 //{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
