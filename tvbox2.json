@@ -55,14 +55,15 @@
 
 {"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
-{"key": "drpy_js_大豆","name": "大豆┃影视","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/"},
+{"key": "drpy_js_大豆","name": "大豆┃影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "./JS/js/"},
 
 {"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/星辰.json"},
 
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/零度.json"},
 
 //{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "./JS/libs/drpy2.min.js","ext": "./JS/js/子子影视.js"},
-{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"},
+
+{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
