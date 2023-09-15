@@ -1,6 +1,6 @@
 {
 
-"spider":"./JAR/custom_spider.jar",
+"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
 
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
