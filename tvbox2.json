@@ -1,6 +1,6 @@
 {
 
-"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
