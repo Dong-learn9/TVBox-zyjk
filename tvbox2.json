@@ -46,7 +46,7 @@
 
 //{"key": "秒看资源","name": "秒看┃切片","type": 1,"api": "https://www.xy1080.net/api.php/provide/vod/from/XYHD","searchable": 1,"quickSearch": 1,"categories": ["综艺","电视剧","电影","动漫"],"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"},
 
-{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/星星影视.js"},
+{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/星星影视.js"},
 
 
 //{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
@@ -61,7 +61,8 @@
 
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/零度.json"},
 
-{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "./JS/libs/drpy2.min.js","ext": "./JS/js/子子影视.js"},
+//{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "./JS/libs/drpy2.min.js","ext": "./JS/js/子子影视.js"},
+{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
