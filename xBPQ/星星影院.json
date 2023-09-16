@@ -1,6 +1,13 @@
+{
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"分类url": "https://www.xy1080.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ma",
+
+				"数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+				"图片": "data-src=\"&&\"",
+				"标题": "alt=\"&&\"",
 				"链接": "href=\"&&\"",
 				"嗅探词":"m3u8#.m3u8#.mp4#mp4",
-				"副标题": "<class=\"public-list-prb hide ft2\">&&</span>",
+				"副标题": "<div class=\"module-item-text\">&&</div>",
 				"搜索url": "https://www.6080yy1.com//index.php/ajax/suggest.html?mid=1&wd={wd}",
 				"搜索模式": "1",
 				"搜索二次截取":"\"list\":[&&]",
