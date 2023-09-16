@@ -2,7 +2,7 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 				"分类url": "https://www.xy1080.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ma",
 
-				"数组": "<div class=\"public-list-div public-list-bj\">&&<div class=\"public-list-button\">",
+				"数组": "<div class=\"public-list-div public-list-bj\">&&</div>",
 				"图片": "data-src=\"&&\"",
 				"标题": "alt=\"&&\"",
 				"链接": "href=\"&&\"",
@@ -24,7 +24,7 @@
 				"线路数组":"<i class=\"fa ds-dianying/">&&</span>"
 				"线路标题": "nbsp&&<span",
 				"播放数组": "<ul class=\"santhology-list-play size\"&&</ul>",
-				//"影片类型": "class=\"slash\">&&立即播放",
+				"影片类型": "class=\"slash\">&&立即播放",
 				"导演": "导演：&&</div>",
 				"主演": "主演：&&</div>",
 				"简介": "<div class=\"video-info-item video-info-content vod_content\">&&</span>",
