@@ -24,15 +24,13 @@
 
 //{"key": "探探","name": "探探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
 
-{"key": "影咖视频", "name": "影咖┃视频","type": 3,"api": "csp_YingKa","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "","jar":"http://cdn.qiaoji8.com/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"},
+{"key": "影咖视频", "name": "影咖┃视频","type": 3,"api": "csp_YingKa","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "","jar":"http://cdn.qiaoji8.com/fix0907.jar"},
 
 {"key": "陌陌","name": "陌陌┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 
 {"key": "奇奇","name": "奇奇┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1, "ext": "http://mp4.ghlyys.com/api.php/app/" },
 
 {"key": "drpy_js_两个BT","name": "Btto┃[js]","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
-
-//{"key": "csp_Bttoo", "name": "Btto┃影视", "api": "csp_Bttwoo", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 
 {"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"./xBPQ/虎虎.json"},
 
@@ -50,12 +48,9 @@
 
 {"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
 
-//{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
-
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
 
 {"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
-{"key":"py_ikan","name": "ikan┃PY","type": 3,"api":"py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/py_ikan.py"},
 
 
 //{"key": "drpy_js_大豆","name": "大豆┃[js]","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/大豆影视.js"},
@@ -65,6 +60,7 @@
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/零度.json"},
 
 //{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "./JS/js/子子影视.js"},
+
 {"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
