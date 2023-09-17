@@ -55,9 +55,8 @@
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
 
 {"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
-{"key":"py_ikan","name": "ikan┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
+{"key":"py_ikan","name": "ikan┃PY","type": 3,"api":"py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/py_ikan.py"},
 
-py_ikan.py
 
 //{"key": "drpy_js_大豆","name": "大豆┃[js]","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/大豆影视.js"},
 
