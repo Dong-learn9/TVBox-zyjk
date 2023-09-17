@@ -2,7 +2,7 @@
 
 "urls": [
 
-{"url": "https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name": "自用"},
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name": "1"},
 
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},      
 
