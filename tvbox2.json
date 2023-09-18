@@ -98,7 +98,9 @@
       }
     },
 
-//{"key":"csp_xBPQ_爱看影视","name":"爱看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱看影视.json"},
+{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
+
+{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/视觉影院.json"},
 
 {"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
 
@@ -106,14 +108,7 @@
 
 {"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
-
-//{"key": "drpy_js_大豆","name": "大豆┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/大豆影视.js"},
-
-{"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/星辰影视.json"},
-
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/零度.json"},
-
-//{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy1.min.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/子子影视.js"},
 
@@ -135,8 +130,6 @@
 //#XBPQ#
 //{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/北极狐影视.json"},
 //{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
-{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
-
 //{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
 //{"key":"素白白影视","name":"素白白〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
 //{"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/浮生半日.json"},
