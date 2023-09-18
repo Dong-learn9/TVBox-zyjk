@@ -1,6 +1,6 @@
 {
 
-"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
+"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar;md5;ED5D521AD71063B99B06E9AD4C7F9BCA",
 
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -114,7 +114,7 @@
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key": "新6V","name": "码上👓饭-🧲新6V磁力┃慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
+{"key": "新6V","name": "6V┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
 
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
