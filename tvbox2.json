@@ -42,7 +42,30 @@
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 
-//{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"./JS/lib/drpy1.min.js","ext":"./JS/js/星星影视.js"},
+ {
+      "key": "速映",
+      "name": "速映┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "速映影视",
+        "主页url": "https://www.suying.lol/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#",
+        "分类url": "https://www.suying.lol/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "年代": "年份：&&</a>",
+        "地区": "地区：&&</a>",
+        "类型": "类型：&&</a>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "eight: 20px;\">&&</p>",
+        "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+        "播放链接": "href=\"&&\""
+      }
+    },
 
   {
       "key": "热播库",
