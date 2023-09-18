@@ -30,7 +30,7 @@
 
 {"key": "奇奇","name": "奇奇┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1, "ext": "http://mp4.ghlyys.com/api.php/app/" },
 
-{"key": "drpy_js_两个BT","name": "Btto┃[js]","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
+{"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
 {"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","ext":"./xBPQ/虎虎.json"},
 
@@ -39,314 +39,6 @@
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
-
-{"key": "csp_Nmys","name": "农民┃直连","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"
-
-ext":{
-      "ua": "Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36",
-      "homeUrl": "https://www.nmddd.com",
-      "dcVipFlag": "true",
-      "dcPlayUrl": "true",
-      "cateManual": {
-      "电影": "1",
-      "连续剧": "2",
-      "动漫": "4",
-      "综艺": "3"
-      },
-      "homeVodNode": "//section/section[position()>2]//ul[@class='resize_list']/li/a",
-      "homeVodName": "/@title",
-      "homeVodId": "/@href",
-      "homeVodIdR": "/(S+).html",
-      "homeVodImg": "//@data-echo",
-      "homeVodImgR": "",
-      "homeVodMark": "/div/span[2]/span/text()",
-      "cateUrl": "https://www.nmddd.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html",
-      "cateVodNode": "//ul[@class='resize_list']/li/a",
-      "cateVodName": "/@title",
-      "cateVodId": "/@href",
-      "cateVodIdR": "/(S+).html",
-      "cateVodImg": "//@data-echo",
-      "cateVodImgR": "",
-      "cateVodMark": "/div/span[2]/span/em/text()",
-      "dtUrl": "https://www.nmddd.com/{vid}",
-      "dtNode": "//body",
-      "dtName": "//section[@class='page-hd']/a/@title",
-      "dtNameR": "",
-      "dtImg": "//section[@class='page-hd']/a/img/@src",
-      "dtImgR": "",
-      "dtCate": "",
-      "dtCateR": "",
-      "dtYear": "//span[contains(text(), '年代')]/following-sibling::a/text()",
-      "dtYearR": "",
-      "dtArea": "",
-      "dtAreaR": "",
-      "dtDirector": "//span[contains(text(), '导演')]/following-sibling::a/text()",
-      "dtDirectorR": "",
-      "dtActor": "//span[contains(text(), '主演')]/following-sibling::a/text()",
-      "dtActorR": "",
-      "dtDesc": "//article[@class='detail-con']/p/text()",
-      "dtDescR": "",
-      "dtFromNode": "//div[@class='hd']/ul/li/a",
-      "dtFromName": "/text()",
-      "dtFromNameR": "",
-      "dtUrlNode": "//div[@class='numList']/ul",
-      "dtUrlSubNode": "/li/a",
-      "dtUrlId": "@href",
-      "dtUrlIdR": "/(S+).html",
-      "dtUrlName": "/text()",
-      "dtUrlNameR": "",
-      "playUrl": "https://www.nmddd.com/{playUrl}",
-      "playUa": "",
-      "searchUrl": "https://www.nmddd.com/index.php?m=vod-search&wd={wd}",
-      "scVodNode": "//ul[@class='ulPicTxt clearfix']/li",
-      "scVodName": "//span[@class='sTit']/text()",
-      "scVodId": "//span[@class='sBtn']/a/@href",
-      "scVodIdR": "/(S+).html",
-      "scVodImg": "//img/@data-src",
-      "scVodMark": "//span[@class='sDes'][2]/text()",
-      "filter":{
-     "1": [
-           {
-            "name":"类型",
-            "key":"cateId",
-            "value":[
-           {"n":"全部","v":"1"},
-           {"n":"动作片","v":"5"},
-           {"n":"喜剧片","v":"6"},
-           {"n":"爱情片","v":"7"},
-           {"n":"科幻片","v":"8"},
-           {"n":"恐怖片","v":"9"},
-           {"n":"剧情片","v":"10"},
-           {"n":"战争片","v":"11"},
-           {"n":"惊悚片","v":"16"},
-           {"n":"奇幻片","v":"17"}
-          ]},
-           {
-            "name":"年份",
-            "key":"year",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"2022","v":"2022"},
-           {"n":"2021","v":"2021"},
-           {"n":"2020","v":"2020"},
-           {"n":"2019","v":"2019"},
-           {"n":"2018","v":"2018"},
-           {"n":"2017","v":"2017"},
-           {"n":"2016","v":"2016"},
-           {"n":"2015","v":"2015"},
-           {"n":"2014","v":"2014"},
-           {"n":"2013","v":"2013"},
-           {"n":"2012","v":"2012"},
-           {"n":"2011","v":"2011"},
-           {"n":"2010","v":"2010"}
-          ]},
-           {
-            "name":"地区",
-            "key":"area",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"大陆","v":"大陆"},
-           {"n":"香港","v":"香港"},
-           {"n":"台湾","v":"台湾"},
-           {"n":"米国","v":"米国"},
-           {"n":"韩国","v":"韩国"},
-           {"n":"日本","v":"日本"},
-           {"n":"泰国","v":"泰国"},
-           {"n":"新加坡","v":"新加坡"},
-           {"n":"马来西亚","v":"马来西亚"},
-           {"n":"印度","v":"印度"},
-           {"n":"英国","v":"英国"},
-           {"n":"法国","v":"法国"},
-           {"n":"加拿大","v":"加拿大"}
-          ]},
-           {
-            "name":"排序",
-            "key":"by",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"时间","v":"time"},
-           {"n":"人气","v":"hits"},
-           {"n":"评分","v":"score"}
-          ]}
-         ],
-     "2": [
-           {
-            "name":"类型",
-            "key":"cateId",
-            "value":[
-           {"n":"全部","v":"2"},
-           {"n":"国产剧","v":"12"},
-           {"n":"港台剧","v":"13"},
-           {"n":"日韩剧","v":"14"},
-           {"n":"欧美剧","v":"15"}
-          ]},
-           {
-            "name":"年份",
-            "key":"year",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"2022","v":"2022"},
-           {"n":"2021","v":"2021"},
-           {"n":"2020","v":"2020"},
-           {"n":"2019","v":"2019"},
-           {"n":"2018","v":"2018"},
-           {"n":"2017","v":"2017"},
-           {"n":"2016","v":"2016"},
-           {"n":"2015","v":"2015"},
-           {"n":"2014","v":"2014"},
-           {"n":"2013","v":"2013"},
-           {"n":"2012","v":"2012"},
-           {"n":"2011","v":"2011"},
-           {"n":"2010","v":"2010"}
-          ]},
-           {
-            "name":"地区",
-            "key":"area",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"大陆","v":"大陆"},
-           {"n":"香港","v":"香港"},
-           {"n":"台湾","v":"台湾"},
-           {"n":"米国","v":"米国"},
-           {"n":"韩国","v":"韩国"},
-           {"n":"日本","v":"日本"},
-           {"n":"泰国","v":"泰国"},
-           {"n":"新加坡","v":"新加坡"},
-           {"n":"马来西亚","v":"马来西亚"},
-           {"n":"印度","v":"印度"},
-           {"n":"英国","v":"英国"},
-           {"n":"法国","v":"法国"},
-           {"n":"加拿大","v":"加拿大"}
-          ]},
-           {
-            "name":"排序",
-            "key":"by",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"时间","v":"time"},
-           {"n":"人气","v":"hits"},
-           {"n":"评分","v":"score"}
-          ]}
-         ],
-     "3": [
-           {
-            "name":"类型",
-            "key":"cateId",
-            "value":[
-           {"n":"全部","v":"3"}
-          ]},
-           {
-            "name":"年份",
-            "key":"year",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"2022","v":"2022"},
-           {"n":"2021","v":"2021"},
-           {"n":"2020","v":"2020"},
-           {"n":"2019","v":"2019"},
-           {"n":"2018","v":"2018"},
-           {"n":"2017","v":"2017"},
-           {"n":"2016","v":"2016"},
-           {"n":"2015","v":"2015"},
-           {"n":"2014","v":"2014"},
-           {"n":"2013","v":"2013"},
-           {"n":"2012","v":"2012"},
-           {"n":"2011","v":"2011"},
-           {"n":"2010","v":"2010"}
-          ]},
-           {
-            "name":"地区",
-            "key":"area",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"大陆","v":"大陆"},
-           {"n":"香港","v":"香港"},
-           {"n":"台湾","v":"台湾"},
-           {"n":"米国","v":"米国"},
-           {"n":"韩国","v":"韩国"},
-           {"n":"日本","v":"日本"},
-           {"n":"泰国","v":"泰国"},
-           {"n":"新加坡","v":"新加坡"},
-           {"n":"马来西亚","v":"马来西亚"},
-           {"n":"印度","v":"印度"},
-           {"n":"英国","v":"英国"},
-           {"n":"法国","v":"法国"},
-           {"n":"加拿大","v":"加拿大"}
-          ]},
-           {
-            "name":"排序",
-            "key":"by",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"时间","v":"time"},
-           {"n":"人气","v":"hits"},
-           {"n":"评分","v":"score"}
-          ]}
-         ],
-     "4": [
-           {
-            "name":"类型",
-            "key":"cateId",
-            "value":[
-           {"n":"全部","v":"4"},
-           {"n":"动漫剧","v":"18"},
-           {"n":"动漫片","v":"19"}
-          ]},
-           {
-            "name":"年份",
-            "key":"year",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"2022","v":"2022"},
-           {"n":"2021","v":"2021"},
-           {"n":"2020","v":"2020"},
-           {"n":"2019","v":"2019"},
-           {"n":"2018","v":"2018"},
-           {"n":"2017","v":"2017"},
-           {"n":"2016","v":"2016"},
-           {"n":"2015","v":"2015"},
-           {"n":"2014","v":"2014"},
-           {"n":"2013","v":"2013"},
-           {"n":"2012","v":"2012"},
-           {"n":"2011","v":"2011"},
-           {"n":"2010","v":"2010"}
-          ]},
-           {
-            "name":"地区",
-            "key":"area",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"大陆","v":"大陆"},
-           {"n":"香港","v":"香港"},
-           {"n":"台湾","v":"台湾"},
-           {"n":"米国","v":"米国"},
-           {"n":"韩国","v":"韩国"},
-           {"n":"日本","v":"日本"},
-           {"n":"泰国","v":"泰国"},
-           {"n":"新加坡","v":"新加坡"},
-           {"n":"马来西亚","v":"马来西亚"},
-           {"n":"印度","v":"印度"},
-           {"n":"英国","v":"英国"},
-           {"n":"法国","v":"法国"},
-           {"n":"加拿大","v":"加拿大"}
-          ]},
-           {
-            "name":"排序",
-            "key":"by",
-            "value":[
-           {"n":"全部","v":""},
-           {"n":"时间","v":"time"},
-           {"n":"人气","v":"hits"},
-           {"n":"评分","v":"score"}
-        ]}
-       ]
-      }
-     }
-},
-
-
-
-
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},
 
@@ -412,10 +104,10 @@ ext":{
 
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
 
-{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
+{"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
 
-//{"key": "drpy_js_大豆","name": "大豆┃[js]","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/大豆影视.js"},
+//{"key": "drpy_js_大豆","name": "大豆┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/大豆影视.js"},
 
 {"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./xBPQ/星辰影视.json"},
 
@@ -423,7 +115,7 @@ ext":{
 
 //{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy1.min.js","ext": "./JS/js/子子影视.js"},
 
-{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/子子影视.js"},
+{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
@@ -443,7 +135,7 @@ ext":{
 //#XBPQ#
 //{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/北极狐影视.json"},
 //{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
-//{"key":"农民影视〔xBPQ〕","name":"农民影视〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
+{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
 
 //{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
 //{"key":"素白白影视","name":"素白白〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
