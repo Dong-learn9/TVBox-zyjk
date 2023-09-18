@@ -100,8 +100,6 @@
 
 {"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
 
-{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/视觉影院.json"},
-
 {"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
 
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
@@ -128,8 +126,9 @@
 
 
 //#XBPQ#
+{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/视觉影院.json"},
 //{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/北极狐影视.json"},
-//{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
+{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
 //{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
 //{"key":"素白白影视","name":"素白白〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/素白白.json"},
 //{"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/浮生半日.json"},
