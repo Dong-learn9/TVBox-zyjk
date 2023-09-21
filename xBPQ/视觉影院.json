@@ -8,7 +8,7 @@
 "链接":"href=\"&&\"",
 "副标题":"remarks\">&&</span>",
 "搜索模式":"1",
-"搜索url":"https://www.6080yy3.com/v_search/{wd}----------{pg}---.html",
+"搜索url":"https://www.6080yy3.com/video-search/{wd}----------{pg}---.html",
 "搜索数组":"hl-item-pic\">&&</a>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
@@ -26,8 +26,7 @@
 "播放数组":"hl-list-wrap\">&&</ul>",
 "播放链接前缀":"https://www.6080yy3.com",
 "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
-"分类url":"https://www.6080yy3.com/v_show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-"免嗅":"1",
+"分类url":"https://www.6080yy3.com/videoshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
 "筛选":
 {
 "1":[
