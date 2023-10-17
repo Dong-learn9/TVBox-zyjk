@@ -32,11 +32,11 @@
 
 {"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
-{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/虎虎.json"},
+{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/虎虎.json"},
 
 {"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
 
-{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/快看影视.json"},
+{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/快看影视.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
 
@@ -58,7 +58,7 @@
       "name": "速映┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "站名": "速映影视",
         "主页url": "https://www.suying.lol/",
@@ -84,7 +84,7 @@
       "name": "淘剧┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+     "jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b",
       "ext": {
         "主页url": "http://dyxz.tv",
         "数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -119,9 +119,9 @@
       }
     },
 
-{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/农民影视.json"},
+{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/农民影视.json"},
 
-{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1, "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
+{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1, "jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
 
     {
       "key": "索尼资源",
@@ -172,7 +172,7 @@
       "name": "热播┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -199,13 +199,9 @@
       }
     },
 
-//{"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
-
 {"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
-{"key": "星星","name": "星星┃视频","type": 3,"playerType": "1","api": "./JS/lib/drpy1.min.js","ext": "./JS/js/星星.js"},
-
-{"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "./xBPQ/零度.json"},
+{"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext": "./xBPQ/零度.json"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
@@ -227,7 +223,7 @@
 
 
 //#XBPQ#
-{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/视觉影院.json"},
+{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/视觉影院.json"},
 //{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/北极狐影视.json"},
 {"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/红领巾影院.json"},
 //{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
