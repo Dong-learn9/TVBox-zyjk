@@ -3,10 +3,10 @@
 "spider":"https://www.bestpvp.site/tm/stable/custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
 
 "lives":[
-{"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"综合二","type":0,"url":"./TV/live2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"综合四","type":0,"url":"./TV/live4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name":"综合一","type":0,"url":"./TV/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"综合二","type":0,"url":"./TV/live2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+//{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+//{"name":"综合四","type":0,"url":"./TV/live4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
 "wallpaper":"http://maoyingshi.cc/api.php",
@@ -14,15 +14,13 @@
 "sites":[
 //#爬虫#
 
-{"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
-
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
-
-{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy1.min.js","ext": "./JS/js/荐片.js"},
 
- {"key": "龟龟","name": "龟龟┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "./xBPQ/达达龟.json"},
+{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/子子影视.js"},
+
+//{"key": "龟龟","name": "龟龟┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "./xBPQ/达达龟.json"},
 
 {"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
@@ -33,6 +31,8 @@
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"./xBPQ/快看影视.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
+
+{"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
 
     {
       "key": "csp_Ysgc",
@@ -115,14 +115,14 @@
       "key": "秒看资源",
       "name": "秒看┃切片",
       "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/",
+      "api": "https://www.xy1080.net/api.php/provide/vod/from/XYHD",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "综艺",
-        "电视剧",
         "电影",
-        "动漫"
+        "电视剧",
+        "动漫",
+        "综艺"
       ]
     },
 
@@ -209,6 +209,8 @@
 //{"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
 
 {"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
+
+{"key": "星星","name": "星星┃视频","type": 3,"playerType": "1","api": "./JS/lib/drpy1.min.js","ext": "./JS/js/星星.js"},
 
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "./xBPQ/零度.json"},
 
