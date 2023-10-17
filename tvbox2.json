@@ -109,8 +109,6 @@
 
 {"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/农民影视.json"},
 
-{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
-
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
