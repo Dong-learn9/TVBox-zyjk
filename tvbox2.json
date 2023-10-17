@@ -32,11 +32,11 @@
 
 {"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
-{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/虎虎.json"},
-
 {"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/快看影视.json"},
+
+{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","ext":"./xBPQ/虎虎.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
 
