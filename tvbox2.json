@@ -20,33 +20,9 @@
 
 //{"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy2.min.js","ext": "./JS/js/荐片.js"},
 
-    {
-      "key": "js_荐片",
-      "name": "荐片┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "ext": "./JS/js/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key": "js_荐片","name": "荐片┃影视","type": 3,"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
-    {
-      "key": "csp_XBPQ_短剧",
-      "name": "短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
-        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-      }
-    },
-
-{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/子子影视.js"},
+{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy2.js","ext": "./JS/js/子子影视.js"},
 
 {"key": "Mino","name": "Mino┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
 
@@ -56,19 +32,21 @@
 
 //{"key": "图图影视","name": "图图┃影视","type": 3,"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879","api": "csp_APPTT","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"},
 
-{"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
+{"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy2.js","ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
 {"key": "csp_XYQHiker_‍dyx","name": "磁力┃4k","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
 {"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
-
-{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://cz01.pw/","filterable": 1},
 
 {"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
+
+{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
+
+{"key": "csp_XBPQ_短剧","name": "迷剧┃BPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
 
 
  {
