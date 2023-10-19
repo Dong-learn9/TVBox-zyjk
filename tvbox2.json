@@ -46,7 +46,7 @@
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 
-{"key": "csp_XBPQ_短剧","name": "迷剧┃BPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
+{"key": "drpy_js_短剧网","name": "短剧 | 短剧网[js]","type": 3,"api": "./JS/lib/drpy2.js", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./JS/js/短剧网.js"},
 
 
  {
