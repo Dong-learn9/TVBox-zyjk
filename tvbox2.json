@@ -20,7 +20,7 @@
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy2.min.js","ext": "./JS/js/荐片.js"},
 
-{"key":"csp_JianPian","name":"荐片┃SP","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌/jar.php?id=ou"},
+{"key":"csp_JianPian","name":"荐片┃直连","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌/jar.php?id=ou"},
 
 {"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "./JS/lib/drpy2.min.js","ext": "./JS/js/子子影视.js"},
 
