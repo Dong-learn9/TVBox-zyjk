@@ -1,6 +1,6 @@
 {
 
-"spider":"https://www.bestpvp.site/tm/stable/custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+"spider":"https://www.bestpvp.site/tm/stable/custom_spider_stable.jar",
 
 "lives":[
 {"name":"综合一","type":0,"url":"./TV/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
