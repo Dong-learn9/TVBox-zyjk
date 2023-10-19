@@ -42,7 +42,7 @@
       "filterable": 1,
       "ext": {
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
-        "分类": "短剧$20"
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
     },
 
