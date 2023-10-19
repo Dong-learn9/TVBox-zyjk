@@ -18,7 +18,7 @@
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃备用","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy2.min.js","ext": "./JS/js/荐片.js"},
+{"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy2.js","ext": "./JS/js/荐片.js"},
 
 {"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -46,8 +46,29 @@
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json"},
 
+
 {"key": "drpy_js_短剧网","name": "短剧 |JS","type": 3,"api": "./JS/lib/drpy2.js", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./JS/js/短剧网.js"},
 
+
+{
+      "key": "剧白白新",
+      "name": "剧白┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "2",
+      "ext": {
+        "站名": "剧白白",
+        "主页url": "https://www.jubaibaic.com",
+        "数组": "class=\"video-item\">&&</a",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "标题": "title=\"&&\"",
+        "分类url": "https://www.jubaibaic.com/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi"
+      }
+ },
 
  {
       "key": "淘剧",
