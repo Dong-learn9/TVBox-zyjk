@@ -32,7 +32,7 @@
 
 //{"key": "图图影视","name": "图图┃影视","type": 3,"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879","api": "csp_APPTT","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"},
 
-{"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "./JS/lib/drpy2.js","ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","searchable": 1,"quickSearch": 1, "filterable": 1},
+{"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
 {"key": "csp_XYQHiker_‍dyx","name": "磁力┃4k","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
