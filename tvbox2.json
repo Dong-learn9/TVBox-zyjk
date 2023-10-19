@@ -21,25 +21,11 @@
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy2.min.js","ext": "./JS/js/荐片.js"},
 
     {
-      "key": "荐片",
-      "name": "荐片┃直连",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
-    },
-
-    {
       "key": "js_荐片",
       "name": "荐片┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/荐片.js",
+      "ext": "./JS/js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
