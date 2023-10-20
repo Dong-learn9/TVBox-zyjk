@@ -101,10 +101,10 @@ api": "csp_Appto",
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy88.com/","filterable": 1},
 
 {"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b"},
+"jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b"},
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json",
-      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b"},
+"jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b"},
 
 
 {"key": "drpy_js_短剧网","name": "短剧 |JS","type": 3,"api": "./JS/lib/drpy2.js", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./JS/js/短剧网.js"},
