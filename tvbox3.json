@@ -2,14 +2,6 @@
 
 "urls": [
 
-{"url": "http://pandown.pro/tvbox/tvbox.json","name": "技巧"},
-
-{"url":"https://dxawi.github.io/0/0.json","name":"爬虫接口"},
-
-{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},     
-
-{"name":"时光机","url":"https://www.bestpvp.site/关注码上放生/时光机"},
-
 {"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
 
 {"url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "讴歌"},
@@ -20,7 +12,11 @@
 
 {"url": "https://pastebin.com/raw/5NHaxyGR","name": "道长线路"}, 
 
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name": "1"},
+{"url":"https://dxawi.github.io/0/0.json","name":"爬虫接口"},
+
+{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},     
+
+{"name":"时光机","url":"https://www.bestpvp.site/关注码上放生/时光机"},
 
 { "url": "http://8.210.232.168/xc.json","name": "玉玉"},
 
@@ -33,6 +29,10 @@
 {"url":"https://weixine.net/ysc.json","name":"运输车"},
 
 {"url":"http://rihou.cc:88/荷城茶秀","name":"荷城茶秀"},
+
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name": "1"},
+
+{"url": "http://pandown.pro/tvbox/tvbox.json","name": "技巧"},
 
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name": "高天综合"},
 
