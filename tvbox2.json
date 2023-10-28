@@ -14,11 +14,11 @@
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-//{"key": "豆瓣","name": "豆瓣┃备用","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣","name": "豆瓣┃备用","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-//{"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "磁力","name": "荐片┃备用","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.js","ext": "./JS/js/荐片.js"},
+//{"key": "磁力","name": "荐片┃备用","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.js","ext": "./JS/js/荐片.js"},
 
 {"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": " https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/子子影视.js"},
 
@@ -43,7 +43,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "SRMR+YDWyjDw4OVi1abp1qmsPQBFSG/d46yjg1bMwRs2+AjVEALgCrNa182rw7JF5rG/LEkq1git0tTkngA1wZsYmjnRNFSZzj2OAUt+lp8HMp38HO1hA42NeARurO1Xg5PGigDiW57pgSMvi9j4aFj4XnDVX/JhAWwbOA8sywGFP9zPldoLpw0l+R7Xvry56BuB0Iv2tnlFzrc98gSLbjIGXRTjJ3LEgo1GZnDM/y22Ydl8Or7/+3Hp6eY4GfPi4do4miRrfuku005ljcQ5jnY+fNSnhABgSQeF9qb9HdshY4HsSu+DKxVuyJ9H1LZmd0Rghbg+tjA3UdMUOccLq5aXLQWgLQ5IRz3f6DNbpsvOsPFlRJEOoioB9Dk+nAZVNjcilTTJaPmyp02KpGiV+cMHTemVGsZNcQYbDQYn3EYKynE2qP9FlI3Pbea9HIlTnnRe4PVtN+oKowgPBNw6CHkNZhf8uIwf54cG5kfanigW/6aqWEf1wQ7E72QdnAxnTLZkLJ0XMR9ciG6noEX8cY5JuuKO5YekcDHCa1Q1+DPLJiRUmqfPswc2EKBNiX14uEHJzUYCUs6ZtGUJpgxzeM8wp/+JbKIwncsuxNM2GWKGEAuYMMaxiYBai4md94dJwu21GnQiBTGZiU4Ax60AXVnsM3cgVbfsxwe7l1TpV6sk="
+    "ext": "SRMR+YDWyjDw4OVi1abp1qmsPQBFSG/d46yjg1bMwRs2+AjVEALgCrNa182rw7JF5rG/LEkq1git0tTkngA1wZsYmjnRNFSZzj2OAUt+lp8HMp38HO1hA42NeARurO1Xg5PGigDiW57pgSMvi9j4aFj4XnDVX/JhAWwbOA8sywGFP9zPldoLpw0l+R7Xvry56BuB0Iv2tnlFzrc98gSLbjIGXRTjJ3LEgo1GZnDM/y22Ydl8Or7/+3Hp6eY4GfPi4do4miRrfuku005ljcQ5jnY+fNSnhABgSQeF9qb9HdshY4HsSu+DKxVuyJ9H1LZmd0Rghbg+tjA3UdMUOccLq5aXLQWgLQ5IRz3f6DNbpsvOsPFlRJEOoioB9Dk+nAZVNjcilTTJaPmyp02KpGiV+cMHTemVGsZNcQYbDQYn3EYKynE2qP9FlI3Pbea9HIlTnnRe4PVtN+oKowgPBNw6CHkNZhf8uIwf54cG5kfanigW/6aqWEf1wQ7E72QdnAxnTLZkLJ0XMR9ciG6noEX8cY5JuuKO5YekcDHCa1Q1+DPLJiRUmqfPswc2EKBNiX14uEHJzUYCUs6ZtGUJpgxzeM8wp/+JbKIwncsuxNM2GWKGEAuYMMaxiYBai4md94dJwu21GnQiBTGZiU4Ax60AXVnsM3cgVbfsxwe7l1TpV6sk=",
+    "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
 },
 
  {
