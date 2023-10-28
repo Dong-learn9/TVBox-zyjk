@@ -9,38 +9,29 @@
 //{"name":"综合四","type":0,"url":"./TV/live4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
-"wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key": "豆瓣","name": "豆瓣┃备用","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "豆瓣","name": "豆瓣┃备用","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "磁力","name": "荐片┃备用","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.js","ext": "./JS/js/荐片.js"},
 
 {"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": " https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/子子影视.js"},
 
-    {
-      "key": "mino",
-      "name": "mino┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "ext": "uRvwcWvUKVMq4c8CN4gR1u3rMpD1cnjonV28hayXZBXDKJSK2HtJ/9Vn/bXv21hXOGX8PxRMWq54W0S+aSTIMxXSq9yq8B+Zm925EyZEXc1rX1G0oQJPIK2L1up+siEv6hrW0rUp1xPidtwb3loc3NC2Mx4/h3fxE0U7AWw4b3mc25hAeiTZ4eW5Lfr7+5UFWmIwPDZuIlPnGwYtl/q9vE6S34s5gWxCVDqzkE8Lb7xChrxZbxDyPlUiGQ7lmkMif9s322+ZeYDIVI7vT825wCNlXcm/UTD1bJQkTBAwsweRc9BZ/Xvh9sokngxkVEY92WB2FB123BAkpzsFAbrMVZywvQoRY9K9b8mKDXtcmzFAmxGjCmD7/xQo3TKUkKmcOleui4mCEEmwU+1V02euWunnC+QBma4T+0Jc3QQLmtQL4sVQ2Xd0kVKe6P0bfJqAzOt74U9FkHQsnXwJv/H4NhLkQTjNH8w7Jn88Ak3msMUXPgvTsPOO6NbqmyKRfPK8/VyeuUmBAvvy26aCko0ElsTW88VtaF9x7uTyG3tzAHKQMt9ac7H2y6xk+02vThw5aCG1BP6w0XNA7h2T082d/xGGIovd4YYVMPH7Iuq8FZAGhlAVf1H/dk+uoBoiYRDPrU+zsj/WM8rD5QMp/Y8t/chF+4jn8f4f977gS874+cpcwUAwV4WaMphzFsnYxqP/YG2snFeDHq1H0bZhNPGNsZCGKhGa3iGVRqrqeZWFmkzP8HpRz11uuz68OTNkX5ywikGAtPQV1EycW0r0HaHcrikCNFsEf9ab+EMa583EuG+d3J2GkJ+rpLfvWusiMQGk4irrDHDl9APDsXqMrcOI+lJ6vdrKkKR5IrmYA+chxci5WVvVw7DqwAOea6jxZi0sl4RCPr99l613/zCK9gb+wcRbtGhxijNQpkG930ED3w8FRtLjxwoyytSQsZ9zcMie0ym2IoikmbgU+2GW/8CvXDZjq5UHFoIlLfTq8JFRxbxJXPtGIzBKcEyozwQchmoFL",
- "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
-    },
-
 
     {
-      "key": "看看",
-      "name": "看看┃App",
-      "type": 3,
-      "api": "csp_KanKan",
+      "key": "t4_wo",
+      "name": "云盘┃直连",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
       "searchable": 1,
+      "playerType": 2,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1
       "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
     },
 
@@ -52,7 +43,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
-    "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
+    "ext": "SRMR+YDWyjDw4OVi1abp1qmsPQBFSG/d46yjg1bMwRs2+AjVEALgCrNa182rw7JF5rG/LEkq1git0tTkngA1wZsYmjnRNFSZzj2OAUt+lp8HMp38HO1hA42NeARurO1Xg5PGigDiW57pgSMvi9j4aFj4XnDVX/JhAWwbOA8sywGFP9zPldoLpw0l+R7Xvry56BuB0Iv2tnlFzrc98gSLbjIGXRTjJ3LEgo1GZnDM/y22Ydl8Or7/+3Hp6eY4GfPi4do4miRrfuku005ljcQ5jnY+fNSnhABgSQeF9qb9HdshY4HsSu+DKxVuyJ9H1LZmd0Rghbg+tjA3UdMUOccLq5aXLQWgLQ5IRz3f6DNbpsvOsPFlRJEOoioB9Dk+nAZVNjcilTTJaPmyp02KpGiV+cMHTemVGsZNcQYbDQYn3EYKynE2qP9FlI3Pbea9HIlTnnRe4PVtN+oKowgPBNw6CHkNZhf8uIwf54cG5kfanigW/6aqWEf1wQ7E72QdnAxnTLZkLJ0XMR9ciG6noEX8cY5JuuKO5YekcDHCa1Q1+DPLJiRUmqfPswc2EKBNiX14uEHJzUYCUs6ZtGUJpgxzeM8wp/+JbKIwncsuxNM2GWKGEAuYMMaxiYBai4md94dJwu21GnQiBTGZiU4Ax60AXVnsM3cgVbfsxwe7l1TpV6sk="
 },
 
  {
@@ -61,7 +52,7 @@
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "CFlDNYd/CKcMAmYOm0LdDmG7FJ/U6ccjlpig+SuPsdbrFUss0huqjjVPO2RGZOLB6XauQ9sy2FsQy6L03sX2WkP6Zw5+bMtri/fvaN3jLYosYILZwS0s4Gwd6q5IRBVcQau24w896hol/NHlKEh9TeEQSsrGnCX3rESd13TCMX7FaXTTRTNRCyNSG5TXTm5GwYWPKq53NUtzUr88MogSWnUN1EnelRGgA/XEAyabS2a6zORTk0zmc3WT1Uc73isn7i0ESgKpFZNg4K0T63qt6O93G4rrHAqetpAtJB3uXt4EzU2spafDli0GBb9J+d8VUDNuI1NYjQR1RnNSgX+/ObxweibPOk8nAyT4l8kHI9sAHJqhwu22b3zVDNsxdN13Lchr2QedxDiM/LVueBUTbI1dxDkwbosUpEjJMZohJ8XMmqqpOlhWo6A4+14GrYkY648U7mBwkqYpcFUoUL1cvQi4K1H3TVgNqWO+A8XOYjGj3bNiqnHYckGjVFfHbbuACA8ygtriWg54ipYIEXv3kmBKXORETVRsXUbeJpYBZ9Io0G5CpxHUwF2vpTQPq2tu9S8Ptf25L/W7d33OYBqtY1rm8i/wMF7rjbHU6ewcd3r+p02cyafv91oafvFjwpEcbFMB1QTa7JSP6FVo4bBRQaz3E3ozaAs/09KyEYWjJmQyuQZ121Fa5Tuto8ipBCqDtfF1+cZQJSxELxCG4OmfzlTqo5JxF5ewjMXegzMfcrsdM8K6vYKxJpzSwwmYo5kcSiypbGaD2kqKqGaNI1nHq3mRs23rKxljBFFxrWJDje0n1/lNTPy4OlByJ4aSUK68WhQdcG/W/92j++5wWXuofygfAxXuYgOY9aTnjstqMszzASU66MNubEy91a4KL3uBFJFnzhjthHLmcV7JkmZCE7jR2PVUtwH3lM6fTVpSMCXFL7Ycywr74+IpDpHFZpTsAYCP5WyKZ8nlr+ENEY0yjT+Kd/YSs6vFGnx7JQi2+DH+k5UkIS/kJRqzVV7vau4HZ",
+      "ext": "DSbE+KpcBtRWBdmGm2vYjvi2Rz5VesfFfszzvYYuwmQMnBadKQ19Z24s6IZXXPbeXykd2xCuPpxea8FLe6uzVLAseGl5jXCQYYWn7216fCcEvsaHfaQl5W2jNZrLi69+vODKQNXWPAqLSdG6+JABKeMM1wUYaiUQ8qZqNKSfa2l6sEWIWiIi6Gtw6yp/dEpaQZuWWGnZsMu0xpe7i+VJyGA1S5gY6n5MS0vDEaZKPOElG3MgeX4PPEU3kRLaYbTiEzL952EiCwVHk6lVO3b/+yaA12AO6dIG7sOhIOREdaboVWQswQlBDpoP6PSWiox/BIsiHyIpSJRAv5Q1KaxQPoVxEXCkoZh863RD5CGdcE8LW1yN80yZOkRevkzAUVD4YeUAjLboPQ4fKGprJEEC2Q+osy3qvyHub5W9mFqNGbzYjG/DRLNp+630c1E0tT9eM6wN8MEa9ZG6+8C5jbMCExcEKl6biED8R/kICMa/prDD90I52alxWDHsXQWbQkEx+lrGPp9tZLP/P7hA04QryUoI3WA/RTQEGpA3VQ+kdJq4eBunH0V6slutTdKGxBrATyZVch1E0BCDy2wClbhQCCHA6xxxDG8R+vDPjY/FHmOIpTFwjnfWs2MnUGUP+gPJ0CqoDLLKBKUGsp/0Xq9x3BnhwJ+vs8qCbfo0EzF4qA2+a9T/fICKp/UyPY2PFkBVTJGOWnEYESS1ZN2bBAar0oMmHjRQtkKzWJAkuH1j6aOqv41vctwC0z+ddFYybmQDRxrch+eJ6zD019GxLDoBOWIaO20Oggq4h633qbgWu9TmXOBS1+jdfMdxFRGOm9eRyCjMpBm7XsJDlahFtq2L5tnP27JRgMCBH3AAwXusna/R4NI5nbPER7dSeQUh5eXc/3T6uPk82X2Jc89+sMHEsOV4P0igX77EDqMXg9xWSAYH7fYaXfvappRITZrcLirJ5HAB548s1PxSWrPGUVHYoEzlGN0W0KLDYHfy/+mZJ8cQcAn5XztXDkjNJULaX4c9/",
     "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
     },
 
@@ -71,22 +62,9 @@
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "VEUTLMRXuwMFypu4xBFaslbBSWycBXBU2oWwJkfRZ8jPbjmJVK+PvVHT/1yKUgxWs6PbclqEN7mVwmWn3EunB8CDI5LWhQnzerIf1g3xhxA7ZUB0Y8mCSZf5DHDToFLI1xuw/TjvnkXX0cxkzNgtAZv7ik3qchX14Bt6syJBaVGrfdIa7MzUN/669oAY8KLSc2Rq8Ne2Ezy3FrPtRRDNpgKhbxq5f8B9thBJB1Ek8ESckQ+KNaSaugIVl0GjGFCaALPm9PTyWFHM1HjUX0Iule+ossv5NB0RLO+ZEbAtluBCmCw37vo76WOW0PjRWVgtWNUavx5hak+3+5Cq4czRtJ7j4egAUTpxRHlVV5czWZSdQUkdwGnZ4roDUzpZ1Krcm3AydL957y8wp2WUHbCtdvKuD8ZT0DjhxqJAvLTajAANfheX5gMowAJoPp1hPa1s17uxZfjLexnSAqdEr7g5gQL2ulOnvrUjbrpKQitDWgjrriNllr/90uflSZsX8HHbJ6KL5Mky4fwv6D1NxqniJ7qtguHSVqRnGH3T46TGk91AjBDTJcLgNdjZguyh9rzqgHXoE1g8sT30aIcoxNEc3Fr3KVmVU22WU4WD2Ds0pVHU9eBlxz2PLISNdREtZms8hRAqNCuz0FlSuuCo9+wQ9XjQcbuCs0Plunb6zpC/BnXY=",
+      "ext": "CVWMgWK4zwEjifoFRK2CR8Xl8oapn7e5eRjRoTVQxUo+A/gsendkfJKoRry13/2QcqX1OSofED/BV4TTOS2+mb+jiMLfQ70+97Lkiet/ou/r7HqSiw9fNW+yoIgJd42Oa3flhPl9QxDacDSBirLUrK23xiDpN+Uxc+8GpadQ0dY9k40hUX1TXYjL2TzHUhfLDUqHiNGEQVmci6TMW7/nvPoMzfa+lhlEYtcNh28DH35sSVZ7fVInnblitRNTsaibGxuNgByPYrOrZ02n6KKS5sGQKoBM3wXRlnxXV/kfiVn1iCMYlG9uJDOFZJ7k0YrRDP5DpdyO+9VPJiddrDgvoSYRbKBOBvqJeyVo9454538Eypyq3I8o9TG60tmGflrEWrFBnYsIrIhfAMY+H2o/h9jqucpTvErbuEl8IM2py0X0qriXrXap04KPSqDM3wGCt72gXUhvbqe/BJJb2Lp6ZQUEbauFMBHwr6+sSM1geRp5eN9L7fD8JgFdmwDjOXe8vB5Oh6UuT1STBeNx7tm4V0JkACRG052YucNmOKbvYkpudHM34LOCRwAVOBlupoOpikoEp6u1QPN7jaz5BJqeua6ocd6ivWxyW4hqPvehJQFtNIBhQ0Rjn8oupd8ifJAGUZ9CBSypJdJMCxMTy2UkvFK7JxGUau/BAFcqQDd3268Q=",
  "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
     },
-
-{
-    "key": "图图影视",
-    "name": "图图┃影视",
-    "type": 3,
-    "api": "csp_APPTT",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv",
-    "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879"
-},
-
 
 {"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": " https://xhdwc.tk/lib/drpy2.min.js","ext": "./JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
@@ -147,8 +125,6 @@
       "jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b"
     },
 
-
-{"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "新6V","name": "6V┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
 
@@ -257,7 +233,7 @@
         "影片类型": "<div class=\"module-info-tag\">&&立即播放",
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
-        "分类": "movie$movie#连续剧$tv#综艺$variety#动漫$cartoon",
+        "分类": "电影$movie#连续剧$tv#综艺$variety#动漫$cartoon",
         "分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
       }
     },
