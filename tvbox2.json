@@ -35,11 +35,23 @@
       "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
     },
 
+    {
+      "key": "Bdys_spider",
+      "name": "哔滴┃直连",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+      "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
+    },
+
 {
    "key": "橘子",
     "name": "橘子┃App",
     "type": 3, 
-    "api": "csp_AppMao",
+    "api": "csp_Appto",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
