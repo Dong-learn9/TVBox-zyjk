@@ -40,6 +40,17 @@
 {"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy88.com/","filterable": 1},
+    {
+      "key": "达人",
+      "name": "达人┃聚合",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+    },
 
 {"key": "drpy_js_短剧网","name": "短剧 |JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./JS/js/短剧网.js"},
 
@@ -53,7 +64,7 @@
 
     {
       "key":"csp_xBPQ_素白",
-      "name":"素白[┃BPQ",
+      "name":"素白┃BPQ",
       "type":3,
       "api":"csp_XBPQ",
       "playerType":"1",
