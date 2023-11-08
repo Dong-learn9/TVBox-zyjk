@@ -330,13 +330,13 @@
 
 {"key":"csp_Sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/1023.repl.jar;md5;bab8f39fda844e7b2a8a423010aec3dd","timeout":30},
 
-{"key":"drpy_js_百忙无果","name":"芒果┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/百忙无果.js","danmu":true},
+{"key":"drpy_js_百忙无果","name":"芒果┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/百忙无果.js"},
 
-{"key":"drpy_js_腾云驾雾","name":"腾讯┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾云驾雾.js","danmu":true},
+{"key":"drpy_js_腾云驾雾","name":"腾讯┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾云驾雾.js"},
 
-{"key":"drpy_js_奇珍异兽","name":"爱奇┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js","danmu":true},
+{"key":"drpy_js_奇珍异兽","name":"爱奇┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 
-{"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"./JS/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./JS/js/JustLive.js","danmu":true},
+{"key":"drpy_js_JustLive","name":" JustLive┃[js]","type":3,"api":"./JS/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./JS/js/JustLive.js"},
 
 { "key": "csp_SP33", "name": "三三┃解析",  "type": 3,  "api": "csp_SP33", "searchable": 1, "quickSearch": 1, "filterable": 1,  "changeable": 0},
 
