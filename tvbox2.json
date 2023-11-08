@@ -24,7 +24,7 @@
 
 //{"key": "豆瓣","name": "豆瓣┃SP","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "磁力","name": "荐片┃备用","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js","danmu":true},
+{"key": "磁力","name": "荐片┃备用","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"},
 
 {"key": "js_荐片","name": "荐片┃JS","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -52,7 +52,7 @@
 
 {"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/央视片库.py"},
 
-{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
+//{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 
 {"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/快看影视.json","jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 
