@@ -20,8 +20,7 @@
 {"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1},
 {"name":"YuanHsing•油管","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
 ],
-"sites":
-[
+"sites":[
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃JS","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 
 //{"key": "豆瓣","name": "豆瓣┃SP","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
