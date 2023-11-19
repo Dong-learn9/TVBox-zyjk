@@ -115,22 +115,11 @@
         },
         {
             "key": "磁力",
-            "name": "荐片┃备用",
+            "name": "荐片┃[js]",
             "type": 3,
             "playerType": "1",
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
-        },
-        {
-            "key": "js_荐片",
-            "name": "荐片┃[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "drpy_js_子子影视",
@@ -138,15 +127,6 @@
             "type": 3,
             "api": " https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
-        },
-        {
-            "key": "一起看 ",
-            "name": "一起┃App",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "橘子",
@@ -231,16 +211,6 @@
             "filterable": 1,
             "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-        },
-        {
-            "key": "drpy_js_短剧网",
-            "name": "短剧┃[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "./JS/js/短剧网.js"
         },
         {
             "key": "py_cctv",
@@ -527,6 +497,76 @@
             }
         },
         {
+            "key": "csp_短剧",
+            "name": "短剧┃BPQ",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "规则名": "短剧网",
+                "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+                "网页编码格式": "UTF-8",
+                "图片是否需要代理": "0",
+                "是否开启获取首页数据": "1",
+                "首页推荐链接": "https://www.duanju5.com",
+                "首页列表数组规则": "body&&.module-items",
+                "首页片单列表数组规则": ".module-item",
+                "首页片单是否Jsoup写法": "1",
+                "分类起始页码": "1",
+                "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
+                "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
+                "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",
+                "分类截取模式": "1",
+                "分类列表数组规则": "body&&.module-item",
+                "分类片单是否Jsoup写法": "1",
+                "分类片单标题": "a&&title",
+                "分类片单链接": "a&&href",
+                "分类片单图片": ".lazyloaded||.lazyload&&data-src||data-original",
+                "分类片单副标题": ".module-item-note||.module-item-text&&Text",
+                "分类片单链接加前缀": "https://www.duanju5.com",
+                "分类片单链接加后缀": "",
+                "搜索请求头参数": "User-Agent$MOBILE_UA",
+                "搜索链接": "https://www.duanju5.com/vodsearch/{wd}----------{SearchPg}---.html",
+                "POST请求数据": "",
+                "搜索截取模式": "1",
+                "搜索列表数组规则": "body&&.module-search-item",
+                "搜索片单是否Jsoup写法": "1",
+                "搜索片单图片": ".lazyload&&data-src",
+                "搜索片单标题": "h3&&Text",
+                "搜索片单链接": "a&&href",
+                "搜索片单副标题": ".video-serial&&Text",
+                "搜索片单链接加前缀": "https://www.duanju5.com",
+                "搜索片单链接加后缀": "",
+                "链接是否直接播放": "0",
+                "直接播放链接加前缀": "",
+                "直接播放链接加后缀": "#isVideo=true#",
+                "直接播放直链视频请求头": "",
+                "详情是否Jsoup写法": "0",
+                "类型详情": "",
+                "年代详情": "",
+                "地区详情": "",
+                "演员详情": "主演：</span>&&</div>",
+                "简介详情": "introduction\">&&</p>",
+                "线路列表数组规则": ".module-player-tab&&.module-tab-item",
+                "线路标题": "Text",
+                "播放列表数组规则": "body&&.module-player-list:has(.scroll-content)",
+                "选集列表数组规则": ".scroll-content&&a",
+                "选集标题链接是否Jsoup写法": "1",
+                "选集标题": "a&&Text",
+                "选集链接": "a&&href",
+                "是否反转选集序列": "0",
+                "选集链接加前缀": "https://www.duanju5.com",
+                "选集链接加后缀": "",
+                "分析MacPlayer": "0",
+                "是否开启手动嗅探": "1",
+                "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
+                "手动嗅探视频链接过滤词": ".html#?url=http"
+            }
+        },
+        {
             "key": "南瓜",
             "name": "南瓜┃App",
             "type": 3,
@@ -535,21 +575,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Sp360",
-            "name": "360┃弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://ghproxy.net/https://github.com/gaotianliuyun/gao/blob/master/jar/1023.repl.jar;md5;bab8f39fda844e7b2a8a423010aec3dd",
-            "timeout": 30
         },
         {
             "key": "drpy_js_百忙无果",
@@ -673,8 +698,6 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
         },
-        //{"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
-        //{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
         {
             "key": "UpYun",
             "name": "Up搜┃搜索",
