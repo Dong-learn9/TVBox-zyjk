@@ -504,7 +504,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
             "ext": {
                 "规则名": "短剧网",
                 "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
