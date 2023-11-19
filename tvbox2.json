@@ -276,8 +276,7 @@
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-                "分类值": "hot&new&1&2&3&4",
+                "分类": "剧集$2#电影$1#动漫$3#综艺$4#少儿$5",
                 "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
                 "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
                 "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
