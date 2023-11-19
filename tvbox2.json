@@ -209,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
         {
@@ -222,7 +222,7 @@
             "filterable": 1,
             "ext": "./py/央视片库.py"
         },
-        //{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
+        //{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
         {
             "key": "快看影视",
             "name": "快看┃BPQ",
@@ -240,7 +240,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "站名": "素白白影视",
                 "主页url": "https://www.subaibaiys.com",
@@ -273,7 +273,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -292,7 +292,7 @@
             "name": "美剧┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -328,7 +328,7 @@
             "key": "爱看",
             "name": "爱看┃BPQ",
             "type": 3,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.3ayy.com",
@@ -364,7 +364,7 @@
             "name": "热播┃BPQ",
             "type": 3,
             "changeable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -397,7 +397,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "playerType": "2",
             "api": "csp_XBPQ",
             "ext": {
@@ -438,7 +438,7 @@
             "name": "蘑菇┃BPQ",
             "type": 3,
             "changeable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext": {
@@ -462,7 +462,7 @@
             "name": "淘剧┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "主页url": "http://dyxz.tv",
                 "数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -498,7 +498,7 @@
         },
         {
             "key": "csp_短剧",
-            "name": "短剧┃BPQ",
+            "name": "短剧┃XYQ",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
