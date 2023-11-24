@@ -222,6 +222,18 @@
             "filterable": 1,
             "ext": "./py/央视片库.py"
         },
+
+        {
+            "key": "py_厂长",
+            "name": "厂长┃[py]",
+            "type": 3,
+            "api": "py_czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_czspp.py"
+        },
+
         //{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
         {
             "key": "快看影视",
@@ -232,17 +244,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./xBPQ/快看影视.json",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/厂长资源.json",
             "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"
         },
         {
