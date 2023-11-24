@@ -12,7 +12,9 @@ var rule={
             {"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"传记","v":"/movie_bt_tags/chuanji"},{"n":"儿童","v":"/movie_bt_tags/etet"},{"n":"冒险","v":"/movie_bt_tags/maoxian"},{"n":"剧情","v":"/movie_bt_tags/juqing"},{"n":"动作","v":"/movie_bt_tags/dozuo"},{"n":"动漫","v":"/movie_bt_tags/doman"},{"n":"动画","v":"/movie_bt_tags/dhh"},{"n":"历史","v":"/movie_bt_tags/lishi"},{"n":"古装","v":"/movie_bt_tags/guzhuang"},{"n":"同性","v":"/movie_bt_tags/tongxing"},{"n":"喜剧","v":"/movie_bt_tags/xiju"},{"n":"奇幻","v":"/movie_bt_tags/qihuan"},{"n":"家庭","v":"/movie_bt_tags/jiating"},{"n":"恐怖","v":"/movie_bt_tags/kubu"},{"n":"悬疑","v":"/movie_bt_tags/xuanyi"},{"n":"情色","v":"/movie_bt_tags/qingse"},{"n":"惊悚","v":"/movie_bt_tags/kingsong"},{"n":"战争","v":"/movie_bt_tags/zhanzhen"},{"n":"歌舞","v":"/movie_bt_tags/gw"},{"n":"武侠","v":"/movie_bt_tags/wuxia"},{"n":"灾难","v":"/movie_bt_tags/zainan"},{"n":"爱情","v":"/movie_bt_tags/aiqing"},{"n":"犯罪","v":"/movie_bt_tags/fanzui"},{"n":"短片","v":"/movie_bt_tags/dp"},{"n":"科幻","v":"/movie_bt_tags/kh"},{"n":"纪录片","v":"/movie_bt_tags/jlpp"},{"n":"西部","v":"/movie_bt_tags/xb"},{"n":"运动","v":"/movie_bt_tags/yd"},{"n":"音乐","v":"/movie_bt_tags/yy"}]}
         ]
     },
-    searchUrl:'/page/fypage?s=**',
+   // searchUrl:'/page/fypage?s=**',
+    searchUrl:'/xssearch?q=**&f=_all&p=**',
+
     searchable:2,
     filterable:0,
     headers:{
