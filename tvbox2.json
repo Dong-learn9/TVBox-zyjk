@@ -128,7 +128,7 @@
             "api": " https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
-        {
+        //{
             "key": "橘子",
             "name": "橘子┃App",
             "type": 3,
