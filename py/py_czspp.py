@@ -56,7 +56,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
-		url = 'https://www.czys.me//{0}/page/{1}'.format(tid,pg)
+		url = 'https://www.czys.me/{0}/page/{1}'.format(tid,pg)
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
 		aList = root.xpath("//div[contains(@class,'mi_cont')]//ul/li")
@@ -82,7 +82,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	def detailContent(self,array):
 		tid = array[0]
-		url = 'https://www.czys.me//movie/{0}.html'.format(tid)
+		url = 'https://www.czys.me/movie/{0}.html'.format(tid)
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
 		node = root.xpath("//div[@class='dyxingq']")[0]
@@ -153,7 +153,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 
 	def searchContent(self,key,quick):		
-		url = 'https://www.czys.me//xssearch?q={0}'.format(key)
+		url = 'https://www.czys.me/xssearch?q={0}'.format(key)
 		# getHeader()
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
@@ -195,7 +195,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return msg[0:-paddingLen]
 
 	def playerContent(self,flag,id,vipFlags):
-		url = 'https://www.czys.me//v_play/{0}.html'.format(id)
+		url = 'https://www.czys.me/v_play/{0}.html'.format(id)
 		pat = '\\"([^\\"]+)\\";var [\\d\\w]+=function dncry.*md5.enc.Utf8.parse\\(\\"([\\d\\w]+)\\".*md5.enc.Utf8.parse\\(([\\d]+)\\)'
 		rsp = self.fetch(url)
 
