@@ -8,7 +8,7 @@
 "链接":"href=\"&&\"",
 "副标题":"span>&&</span>",
 "搜索模式":"1",
-"搜索url":"/xssearch?q={wd}&f=_all&p={pg}",
+"搜索url":"https://www.czys.me/xssearch?q={wd}&f=_all&p={pg}",
 "搜索数组":"<li>&&</li>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"alt=\"&&\"",
@@ -26,12 +26,14 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<[替换:立即播放>>空]",
 "播放链接":"href=\"&&\"",
-//"分类url":"https://www.czys.me/{cateId}/page/{catePg}",
-//"分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#高分影视$gaofenyingshi#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju#动漫$dm",
-"分类":"站长推荐&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影",
-"分类值":"zhanchangtuijian&dyy&dianshiju&dohua&guochanju&rj&hj&mj&hwj&eluosidianying&jianadadianying&huayudianying&yindudianying&ribendianying&meiguodianying&faguodianying&yingguodianying&hanguodianying",
-"分类url":"https://www.czys.me/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
-"筛选":{
+"分类url":"https://www.czys.me/{cateId}/page/{catePg}",
+"分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#高分影视$gaofenyingshi#热映$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju#动漫$dm",
+
+
+//"分类":"站长推荐&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影",
+//"分类值":"zhanchangtuijian&dyy&dianshiju&dohua&guochanju&rj&hj&mj&hwj&eluosidianying&jianadadianying&huayudianying&yindudianying&ribendianying&meiguodianying&faguodianying&yingguodianying&hanguodianying",
+//"分类url":"https://www.czys.me/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
+//"筛选":{
 "dyy":[
 {
 "key":"class",
