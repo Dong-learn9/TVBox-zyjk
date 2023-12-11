@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
     "lives": [
         {
             "name": "初秋语•综合",
@@ -112,6 +112,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },        
+        {
+            "key": "77",
+            "name": "七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "磁力",
@@ -136,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
             "key": "drpy_js_两个BT",
@@ -177,7 +186,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
+            "ext": "https://www.hdmyy.com/"
         },
         {
             "key": "csp_Czsapp",
@@ -188,7 +197,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy88.com/",
+            "ext": "https://www.czzy33.com/",
             "filterable": 1
         },
         {
@@ -257,6 +266,33 @@
                 "播放链接": "href=\"&&\""
             }
         },
+ {
+      "key": "1080看",
+      "name": "1080┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "1",
+      "ext": {
+        "主页url": "https://www.1080kanju.com/",
+        "简介": "<p&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片状态": "集数：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索模式": "1",
+        "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
+        "搜索数组": "module-card-item-class\">&&</a>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "note\">&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>",
+        "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
+      }
+    },
         {
             "key": "freeok",
             "name": "free┃BPQ",
@@ -526,15 +562,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "77",
-            "name": "七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "csp_Dm84",
