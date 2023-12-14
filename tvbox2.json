@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
     "lives": [
         {
             "name": "初秋语•综合",
@@ -197,7 +197,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy33.com/",
+            "ext": "https://www.czzy33.com/,
             "filterable": 1
         },
         {
@@ -211,6 +211,17 @@
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
+
+    {
+      "key": "Cokemv",
+      "name": "可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
