@@ -197,7 +197,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy33.com/,
+            "ext": "https://www.czzy33.com/"
         },
         {
             "key": "Cokemv",
@@ -210,6 +210,17 @@
             "changeable": 1
         },
         {
+            "key": "达人",
+            "name": "达人┃聚合",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+        },
+        {
             "key": "py_cctv",
             "name": "央视┃[py]",
             "type": 3,
@@ -219,7 +230,17 @@
             "filterable": 1,
             "ext": "./py/央视片库.py"
         },
-        //{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json","jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
+        {
+            "key": "红领巾影院",
+            "name": "红领┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xBPQ/红领巾影院.json",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
+        },
         {
             "key": "快看影视",
             "name": "快看┃BPQ",
