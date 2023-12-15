@@ -29,7 +29,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类url":"https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
+"分类url":"https://www.kuaikanys.net/t/{cateId}/page/{catePg}.html",
 "分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
 "筛选":{
 "dianying":[
