@@ -112,7 +112,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },        
+        },
         {
             "key": "77",
             "name": "七七┃App",
@@ -198,7 +198,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.czzy33.com/,
-            "filterable": 1
         },
         {
             "key": "达人",
@@ -211,17 +210,16 @@
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-
-    {
-      "key": "Cokemv",
-      "name": "可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+        {
+            "key": "Cokemv",
+            "name": "可乐┃直连",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
@@ -277,33 +275,33 @@
                 "播放链接": "href=\"&&\""
             }
         },
- {
-      "key": "1080看",
-      "name": "1080┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://www.1080kanju.com/",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "影片状态": "集数：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "搜索模式": "1",
-        "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
-        "搜索数组": "module-card-item-class\">&&</a>",
-        "搜索标题": "alt=\"&&\"",
-        "搜索副标题": "note\">&&</div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "<span>&&</small>",
-        "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
-      }
-    },
+        {
+            "key": "1080看",
+            "name": "1080┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "playerType": "1",
+            "ext": {
+                "主页url": "https://www.1080kanju.com/",
+                "简介": "<p&&</p>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "影片状态": "集数：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "搜索模式": "1",
+                "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
+                "搜索数组": "module-card-item-class\">&&</a>",
+                "搜索标题": "alt=\"&&\"",
+                "搜索副标题": "note\">&&</div>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>",
+                "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
+            }
+        },
         {
             "key": "freeok",
             "name": "free┃BPQ",
@@ -692,69 +690,69 @@
             "type": 3,
             "url": "Web"
         },
- {
-      "name": "一",
-      "type": 1,
-      "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "二",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    }
-  ],
+        {
+            "name": "一",
+            "type": 1,
+            "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "二",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        }
+    ],
     "doh": [
         {
             "name": "Google",
