@@ -200,17 +200,6 @@
             "ext": "https://www.czzy33.com/,
         },
         {
-            "key": "达人",
-            "name": "达人┃聚合",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-        },
-        {
             "key": "Cokemv",
             "name": "可乐┃直连",
             "type": 3,
