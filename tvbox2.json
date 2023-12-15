@@ -231,28 +231,6 @@
             "ext": "./py/央视片库.py"
         },
         {
-            "key": "红领巾影院",
-            "name": "红领┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/红领巾影院.json",
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
-        },
-        {
-            "key": "快看影视",
-            "name": "快看┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/快看影视.json",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968"
-        },
-        {
             "key": "csp_xBPQ_素白",
             "name": "素白┃BPQ",
             "type": 3,
