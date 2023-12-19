@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;58adbd51a4bbed437f442e4e9a4c85c2",
     "lives": [
         {
             "name": "初秋语•综合",
@@ -20,7 +20,7 @@
         {
             "name": "范明明•综合",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+            "url": "https://fanty.run.goorm.site/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -158,6 +158,35 @@
             "filterable": 1
         },
         {
+            "key": "csp_Bttoo",
+            "name": "🍄比特┃直连",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "电影",
+            "name": "电影┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
+            "key": "九六",
+            "name": "九六┃直连",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_XYQHiker_‍dyx",
             "name": "磁力┃HK",
             "type": 3,
@@ -198,16 +227,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.czzy33.com/"
-        },
-        {
-            "key": "Cokemv",
-            "name": "可乐┃直连",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "达人",
@@ -526,7 +545,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;559A98ED1869E26027A3FF8D6070003F8"
         },
         {
             "key": "南瓜",
@@ -669,19 +688,14 @@
     ],
     "parses": [
         {
-            "name": "聚合1",
+            "name": "聚合",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "聚合0",
-            "type": 3,
-            "url": "Web"
-        },
-        {
             "name": "一",
             "type": 1,
-            "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -715,20 +729,20 @@
         },
         {
             "name": "二",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
                     "qiyi",
-                    "iqiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
                     "mgtv",
                     "芒果",
+                    "imgo",
                     "letv",
                     "乐视",
                     "pptv",
@@ -737,7 +751,65 @@
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩"
-                ]
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "三",
+            "type": 1,
+            "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+            "ext": {
+                "flag": [
+                    "FYNB"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "四",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=cfiknqswABGHJSU058&format=json&url=",
+            "ext": {
+                "flag": [
+                    "seven"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "五",
+            "type": 1,
+            "url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
             }
         }
     ],
