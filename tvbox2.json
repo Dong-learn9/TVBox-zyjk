@@ -158,13 +158,14 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bttoo",
-            "name": "🍄比特┃直连",
+            "key": "drpy_js_两个BT",
+            "name": "两个┃BT",
             "type": 3,
-            "api": "csp_Bttwoo",
+            "api": " https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/两个BT1.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1
         },
         {
             "key": "电影",
@@ -307,6 +308,17 @@
                 "线路标题": "<span>&&</small>",
                 "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
+            }
+        },
+        {
+            "key": "两个BT",
+            "name": "两┃个BT",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "分类url": "https://www.bttwo.net/{cateId}/page/{catePg}",
+                "分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"
             }
         },
         {
