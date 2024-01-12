@@ -2,42 +2,47 @@
     "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt",
     "lives": [
         {
-            "name": "初秋语•综合",
+            "name": "—车—",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+            "url": "https://weixine.net/tv/ysclive.txt",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG•综合",
+            "name": "—米—",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "url": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xmzb.txt",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "范明明•综合",
+            "name": "—欧—",
             "type": 0,
-            "url": "https://fanty.run.goorm.site/live.txt",
+            "url": "http://tv.nxog.top/m/tv/live.jpg",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YueChan•综合",
+            "name": "—玉—",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+            "url": "http://124.223.177.85:88/svip/直播挺快.txt",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "Yoursmile•综合",
+            "name": "—分—",
             "type": 0,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "url": "https://agit.ai/66666/mao/raw/branch/master/live20220813.txt",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -49,51 +54,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Ray•综合",
-            "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "俊于•综合",
-            "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "肥羊•斗鱼",
-            "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "肥羊•虎牙",
-            "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "肥羊•YY",
-            "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "初秋语•哔哩",
-            "type": 0,
-            "url": "./bili.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "YuanHsing•油管",
-            "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"
         }
     ],
     "sites": [
@@ -131,11 +91,24 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
-            "key": "drpy_js_子子影视",
-            "name": "子子┃[js]",
+            "key": "南坊",
+            "name": "南坊┃App",
             "type": 3,
-            "api": " https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+        },
+        {
+            "key": "九六",
+            "name": "九六┃直连",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "玩偶哥哥",
@@ -168,14 +141,11 @@
             "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
-            "key": "九六",
-            "name": "九六┃直连",
+            "key": "drpy_js_子子影视",
+            "name": "子子┃[js]",
             "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": " https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
             "key": "csp_XYQHiker_‍dyx",
@@ -537,16 +507,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://tv.nxog.top/m/jar.php?id=ou"
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜┃App",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "drpy_js_JustLive",
