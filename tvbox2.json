@@ -463,7 +463,7 @@
             "key": "drpy_js_量子资源",
             "name": "量子┃[js]",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./JS/lib/drpy2.min.js",
             "ext": "./JS/js/量子资源.js"
         },
         {
