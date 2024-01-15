@@ -451,18 +451,9 @@
         {
             "key": "csp_xbpq_lgyy",
             "name": "蓝光┃BPQ",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "csp_xb_lgyys",
-            "name": "蓝光┃XBiu",
-            "type": 3,
-            "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
