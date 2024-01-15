@@ -99,6 +99,7 @@
             "type": 3,
             "api": "csp_App",
             "playerType": 2,
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou",
             "ext": "./EXT/5.json"
         },
         {
