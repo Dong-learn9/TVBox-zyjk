@@ -456,7 +456,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "csp_xb_lgyys",
@@ -466,7 +466,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "短剧网",
