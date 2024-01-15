@@ -84,6 +84,38 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
+            "key": "荐片弹幕版",
+            "name": "弹幕|荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": ".https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
+            "timeout": 60
+        },
+        {
+            "key": "天天",
+            "name": "弹幕|天天",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": "http://op.ysdqjs.cn$$$null$$$1"
+        },
+        {
+            "key": "Bdys_spider",
+            "name": "弹幕|哔滴",
+            "api": "csp_Bdys01",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": "https://www.bdys03.com/$$$null$$$1"
+        },
+        {
             "key": "南坊",
             "name": "南坊┃App",
             "type": 3,
@@ -101,16 +133,6 @@
             "playerType": 2,
             "jar": "http://tv.nxog.top/m/jar.php?id=ou",
             "ext": "http://tv.nxog.top/m/EXT/5.json"
-        },
-        {
-            "key": "哔嘀",
-            "name": "哔嘀┃影视",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://tv.nxog.top/m/jar.php?id=ou",
-            "filterable": 1
         },
         {
             "key": "电影",
