@@ -58,13 +58,6 @@
     ],
     "sites": [
         {
-            "key": "drpy_js_豆瓣",
-            "name": " 豆瓣┃[js]",
-            "type": 3,
-            "api": "./JS/lib/drpy.min.js",
-            "ext": "./JS/js/drpy.js"
-        },
-        {
             "key": "豆瓣",
             "name": "豆瓣┃SP",
             "type": 3,
