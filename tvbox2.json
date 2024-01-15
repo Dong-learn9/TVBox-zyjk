@@ -91,8 +91,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
-            "ext": ".https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": ".https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
             "timeout": 60
         },
         {
@@ -101,7 +101,7 @@
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
-            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
             "ext": "http://op.ysdqjs.cn$$$null$$$1"
         },
         {
@@ -112,7 +112,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https: //ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master//jar/pg.jar",
             "ext": "https://www.bdys03.com/$$$null$$$1"
         },
         {
