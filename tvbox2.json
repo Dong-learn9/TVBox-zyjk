@@ -94,6 +94,33 @@
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
+            "key": "星星",
+            "name": "星星┃影视",
+            "type": 3,
+            "api": "csp_App",
+            "playerType": 2,
+            "ext": "./EXT/5.json"
+        },
+        {
+            "key": "哔嘀",
+            "name": "哔嘀┃影视",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "电影",
+            "name": "电影┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
             "key": "九六",
             "name": "九六┃直连",
             "type": 3,
@@ -124,16 +151,6 @@
             "filterable": 1
         },
         {
-            "key": "电影",
-            "name": "电影┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-        },
-        {
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
@@ -149,7 +166,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt"
         },
         {
             "key": "新6V",
@@ -480,6 +497,54 @@
             "type": 3,
             "api": "./JS/lib/drpy2.min.js",
             "ext": "./JS/js/量子资源.js"
+        },
+        {
+            "key": "量子资源",
+            "name": "量子┃采集",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "熊掌",
+            "name": "熊掌┃采集",
+            "type": 1,
+            "api": "https://xzcjz.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "连续剧",
+                "动漫"
+            ]
         },
         {
             "key": "猫农民",
