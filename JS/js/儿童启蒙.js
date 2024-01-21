@@ -1,12 +1,12 @@
 var rule = {
     title:'兔小贝',
     host:'https://www.tuxiaobei.com',
-    homeUrl:'https://www.tuxiaobei.com/list/25',
+    homeUrl:'',
     url:'/list/mip-data?typeId=fyclass&page=fypage&callback=',
     detailUrl:'/play/fyid',
     searchUrl:'/search/index?key=**',
-    searchable:1,
-    quickSearch:1,
+    searchable:2,
+
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -15,8 +15,8 @@ var rule = {
     class_name:'儿歌&故事&国学&启蒙',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
-    推荐:'.mip-infinitescroll-page;.items;.title&&text;mip-img&&src;.sort&&text;a&&href',
- 
+    推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
+    double:true,
     limit:5,
     play_parse:true,
     lazy:'js:fetch_params.headers["user-agent"] = IOS_UA;let html=fetch(input,fetch_params);let src = jsp.pdfh(html,"body&&#videoWrap&&video-src");input=src;',
