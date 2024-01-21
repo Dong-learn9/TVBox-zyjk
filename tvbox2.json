@@ -541,8 +541,8 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
