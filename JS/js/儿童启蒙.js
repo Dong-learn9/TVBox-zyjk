@@ -15,8 +15,8 @@ var rule = {
     class_name:'儿歌&故事&国学&启蒙',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
-    推荐:'.mip-infinitescroll-page;.items;.title&&Text;mip-img&&src;.sort&&Text;a&&href',
-    double:true,
+    推荐:'.mip-infinitescroll-page;.items;.title&&text;mip-img&&src;.sort&&text;a&&href',
+ 
     limit:5,
     play_parse:true,
     lazy:'js:fetch_params.headers["user-agent"] = IOS_UA;let html=fetch(input,fetch_params);let src = jsp.pdfh(html,"body&&#videoWrap&&video-src");input=src;',
