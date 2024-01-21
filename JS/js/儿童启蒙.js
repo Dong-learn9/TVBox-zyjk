@@ -1,7 +1,7 @@
 var rule = {
     title:'兔小贝',
     host:'https://www.tuxiaobei.com',
-    homeUrl:'/list/25',
+    homeUrl:'https://www.tuxiaobei.com/list/25',
     url:'/list/mip-data?typeId=fyclass&page=fypage&callback=',
     detailUrl:'/play/fyid',
     searchUrl:'/search/index?key=**',
@@ -15,7 +15,7 @@ var rule = {
     class_name:'儿歌&故事&国学&启蒙',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
-    推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
+    推荐:'.mip-infinitescroll-page;.items;.title&&Text;mip-img&&src;.sort&&Text;a&&href',
     double:true,
     limit:5,
     play_parse:true,
