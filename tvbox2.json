@@ -539,8 +539,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
+            "jar": "./JAR/XYQH.jar",
+            "ext": "./XYQH/儿童启蒙.json"
         },
         {
             "key": "少儿教育",
