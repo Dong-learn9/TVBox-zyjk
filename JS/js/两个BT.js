@@ -13,8 +13,8 @@ var rule = {
     searchUrl:'/xssearch?q=**&f=_all&p=fypage',
     searchable:2,
     quickSearch:0,
-    headers:{
-        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0'
+    headers:'User-Agent':'MOBILE_UA',
+        "Cookie": "myannoun=1"
     },
     timeout:5000,
     class_name:'影视筛选&电视剧&高分电影&热门下载&本月热门&最新电影&国产剧&美剧&日韩剧',//静态分类名称拼接

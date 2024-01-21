@@ -532,18 +532,14 @@
             "api": "./JS/js/555dy_open.js"
         },
         {
-            "key": "dr_兔小贝",
+            "key": "csp_XYQHiker_兔小贝",
             "name": "儿童┃启蒙",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "./JS/js/儿童启蒙.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "filterable": 1,
+            "ext": "./XYQH/儿童启蒙.json"
         },
         {
             "key": "少儿教育",
