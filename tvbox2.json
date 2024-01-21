@@ -536,7 +536,7 @@
             "name": "儿童┃启蒙",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "ext": "./JS/js/儿童启蒙.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
