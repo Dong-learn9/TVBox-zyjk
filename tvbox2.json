@@ -554,8 +554,8 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
         },
