@@ -1,11 +1,12 @@
 var rule = {
     title:'兔小贝',
     host:'https://www.tuxiaobei.com',
-    homeUrl:'',
+    homeUrl:'/list/25',
     url:'/list/mip-data?typeId=fyclass&page=fypage&callback=',
     detailUrl:'/play/fyid',
     searchUrl:'/search/index?key=**',
-    searchable:2,
+    searchable:1,
+    quickSearch:1,
     headers:{
         'User-Agent':'MOBILE_UA'
     },
