@@ -539,6 +539,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./JAR/XYQH.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482",
             "ext": "./XYQH/儿童启蒙.json"
         },
         {
