@@ -159,13 +159,13 @@
         {
             "key": "玩偶运输车",
             "name": "阿里┃云盘",
-            "jar": "http://rihou.vip:55/lib/ttkx.jar"
+            "jar": "http://rihou.vip:55/lib/ttkx.jar",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQH/玩偶车.json",
+            "ext": "./XYQH/玩偶车.json"
         },
         {
             "key": "drpy_js_两个BT",
