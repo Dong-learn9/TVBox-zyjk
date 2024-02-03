@@ -76,17 +76,6 @@
             "changeable": 1
         },
         {
-            "key": "磁力",
-            "name": "荐片┃[js]",
-            "type": 3,
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
-        },
-        {
             "key": "csp_JianPian",
             "name": "荐片┃直连",
             "type": 3,
@@ -170,13 +159,13 @@
         {
             "key": "玩偶运输车",
             "name": "阿里┃云盘",
+            "jar": "http://rihou.vip:55/lib/ttkx.jar"
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQH/玩偶车.json",
-            "jar": "http: //rihou.vip:55/lib/ttkx.jar"
         },
         {
             "key": "drpy_js_两个BT",
