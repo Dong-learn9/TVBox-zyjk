@@ -84,16 +84,16 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
-            "key": "荐片弹幕版",
-            "name": "弹幕|荐片",
+            "key": "csp_JianPian",
+            "name": "荐片┃直连",
             "type": 3,
-            "api": "csp_Jianpian",
+            "api": "csp_JianPian",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://agit.ai/leevi/PlG/raw/branch/master/pg.jar",
-            "ext": "https://agit.ai/leevi/PlG/raw/branch/master/lib/jianpian.json$$$1",
-            "timeout": 60
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou"
         },
         {
             "key": "天天",
@@ -163,6 +163,17 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "玩偶",
+            "name": "阿里┃云盘",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQH/玩偶车.js",
+            "jar": "http: //rihou.vip:55/lib/ttkx.jar"
         },
         {
             "key": "drpy_js_两个BT",
@@ -245,6 +256,57 @@
             "ext": "./py/央视片库.py"
         },
         {
+            "key": "麻衣呀呼",
+            "name": "麻衣┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "./xBPQ/麻衣高清.json"
+        },
+        {
+            "key": "csp_xml_爱坤",
+            "name": "爱坤┃2K",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http: //rihou.vip:55/lib/ttkx.jar",
+            "playurl": "json:https://www.ikdmjx.com/?url=",
+            "categories": [
+                "动作片",
+                "大陆剧",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动漫电影",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "台湾剧",
+                "日剧",
+                "海外剧",
+                "泰剧",
+                "体育",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
             "key": "csp_xBPQ_素白",
             "name": "素白┃BPQ",
             "type": 3,
@@ -302,25 +364,6 @@
                 "线路标题": "<span>&&</small>",
                 "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
-            }
-        },
-        {
-            "key": "freeok",
-            "name": "free┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "剧集$2#电影$1#动漫$3#综艺$4#少儿$5",
-                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "<p>&&</p>"
             }
         },
         {
@@ -514,22 +557,6 @@
                 "连续剧",
                 "动漫"
             ]
-        },
-        {
-            "key": "猫农民",
-            "name": "农民┃[cat]",
-            "searchable": 1,
-            "quickSearch": 1,
-            "type": 3,
-            "api": "/JS/js/猫农民.js"
-        },
-        {
-            "key": "555",
-            "name": "三五┃[cat]",
-            "searchable": 1,
-            "quickSearch": 1,
-            "type": 3,
-            "api": "./JS/js/555dy_open.js"
         },
         {
             "key": "csp_XYQHiker_兔小贝",
