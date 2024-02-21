@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
     "lives": [
         {
             "name": "—车—",
@@ -137,16 +137,6 @@
             "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
-            "key": "九六",
-            "name": "九六┃直连",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "玩偶哥哥",
             "name": "玩偶┃弹幕",
             "type": 3,
@@ -224,7 +214,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy66.com/"
+            "ext": "https://www.czzy55.com/"
         },
         {
             "key": "达人",
