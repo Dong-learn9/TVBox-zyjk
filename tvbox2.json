@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709930083738/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
     "lives": [
         {
             "name": "—车—",
@@ -71,6 +71,7 @@
             "name": "七七┃App",
             "type": 3,
             "api": "csp_Kunyu77",
+"timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -92,7 +93,7 @@
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
-            "jar": "https://agit.ai/leevi/PlG/raw/branch/master/pg.jar",
+            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
             "ext": "http://op.ysdqjs.cn$$$null$$$1"
         },
         {
@@ -103,7 +104,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https://agit.ai/leevi/PlG/raw/branch/master/pg.jar",
+            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
             "ext": "https://www.bdys03.com/$$$null$$$1"
         },
         {
@@ -116,6 +117,16 @@
             "changeable": 1,
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
+{
+      "key": "原创",
+      "name": "原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {
             "key": "星星",
             "name": "星星┃影视",
@@ -144,17 +155,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-        },
-        {
-            "key": "玩偶运输车",
-            "name": "阿里┃云盘",
-            "jar": "http://rihou.vip:55/lib/ttkx.jar",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQH/玩偶车.json"
         },
         {
             "key": "drpy_js_两个BT",
@@ -194,27 +194,29 @@
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
-        {
-            "key": "Xinsj",
-            "name": "视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长┃直连",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
-        },
+{
+      "key": "Xinsj",
+      "name": "视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+ {
+      "key": "厂长",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
         {
             "key": "达人",
             "name": "达人┃聚合",
