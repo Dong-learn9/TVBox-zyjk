@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709930083738/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
     "lives": [
         {
             "name": "—车—",
@@ -71,7 +71,7 @@
             "name": "七七┃App",
             "type": 3,
             "api": "csp_Kunyu77",
-"timeout": 15,
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -117,16 +117,16 @@
             "changeable": 1,
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
-{
-      "key": "原创",
-      "name": "原创┃无广",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+        {
+            "key": "原创",
+            "name": "原创┃无广",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "星星",
             "name": "星星┃影视",
@@ -194,29 +194,29 @@
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
-{
-      "key": "Xinsj",
-      "name": "视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
- {
-      "key": "厂长",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
-    },
+        {
+            "key": "Xinsj",
+            "name": "视觉┃直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "厂长",
+            "name": "厂长┃影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
+        },
         {
             "key": "达人",
             "name": "达人┃聚合",
