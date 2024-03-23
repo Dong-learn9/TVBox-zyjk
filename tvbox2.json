@@ -86,26 +86,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
-        {
-            "key": "贱贱",
-            "name": "荐片┃直连",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-        },
-        {
-            "key": "天天",
-            "name": "弹幕|天天",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 1,
-            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
-            "ext": "http://op.ysdqjs.cn$$$null$$$1"
-        },
+ {
+      "key": "酷看",
+      "name": "酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {
             "key": "Bdys_spider",
             "name": "弹幕|哔滴",
@@ -118,16 +108,6 @@
             "ext": "https://www.bdys03.com/$$$null$$$1"
         },
         {
-            "key": "南坊",
-            "name": "南坊┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-        },
-        {
             "key": "原创",
             "name": "原创┃无广",
             "type": 3,
@@ -136,25 +116,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "星星",
-            "name": "星星┃影视",
-            "type": 3,
-            "api": "csp_App",
-            "playerType": 2,
-            "jar": "http://tv.nxog.top/m/jar.php?id=ou",
-            "ext": "http://tv.nxog.top/m/EXT/5.json"
-        },
-        {
-            "key": "电影",
-            "name": "电影┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
             "key": "玩偶哥哥",
@@ -204,40 +165,35 @@
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
-        {
-            "key": "Xinsj",
-            "name": "视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-        },
-        {
-            "key": "厂长",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy77.com/"
-        },
-        {
-            "key": "达人",
-            "name": "达人┃聚合",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-        },
+ {
+      "key": "厂长弹幕版",
+      "name": "厂长┃弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+     "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "timeout": 25
+    },
+{
+      "key": "白票弹幕版",
+      "name": "白票|弹幕",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+     "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "timeout": 25
+    },
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
@@ -247,57 +203,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./py/央视片库.py"
-        },
-        {
-            "key": "麻衣呀呼",
-            "name": "麻衣┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/麻衣高清.json"
-        },
-        {
-            "key": "csp_xml_爱坤",
-            "name": "爱坤┃2K",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http: //rihou.vip:55/lib/ttkx.jar",
-            "playurl": "json:https://www.ikdmjx.com/?url=",
-            "categories": [
-                "动作片",
-                "大陆剧",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动漫电影",
-                "欧美剧",
-                "港澳剧",
-                "韩剧",
-                "台湾剧",
-                "日剧",
-                "海外剧",
-                "泰剧",
-                "体育",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
         },
         {
             "key": "csp_xBPQ_素白",
@@ -330,68 +235,6 @@
                 "播放列表": "<a&&/a>",
                 "播放标题": ">&&<[替换:立即播放>>空]",
                 "播放链接": "href=\"&&\""
-            }
-        },
-        {
-            "key": "1080看",
-            "name": "1080┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "playerType": "1",
-            "ext": {
-                "主页url": "https://www.1080kanju.com/",
-                "简介": "<p&&</p>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "影片状态": "集数：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "搜索模式": "1",
-                "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
-                "搜索数组": "module-card-item-class\">&&</a>",
-                "搜索标题": "alt=\"&&\"",
-                "搜索副标题": "note\">&&</div>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>",
-                "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
-            }
-        },
-        {
-            "key": "爱看",
-            "name": "爱看┃BPQ",
-            "type": 3,
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.3ayy.com",
-                "简介": "module-info-introduction\">&&</p>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "影片状态": "集数：&&</div>",
-                "数组": "<a&&module-poster-item-info\"[不包含:夸克]",
-                "标题": "title=\"&&\"",
-                "副标题": "note\">&&</div>",
-                "嗅探词": ".mp4#.m3u8",
-                "过滤词": "/player/#/index/",
-                "图片": "data-original=\"&&\"",
-                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-                "链接": "href=\"&&\"",
-                "搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
-                "搜索模式": "1",
-                "搜索二次截取": "\"list\":[&&]",
-                "搜索数组": "{&&}",
-                "搜索标题": "\"name\":\"&&\"",
-                "搜索图片": "\"pic\":\"&&\"",
-                "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
-                "播放数组": "module-play-list-base\">&&</div>",
-                "播放标题": "<span>&&</span>",
-                "播放列表": "<a&&</a>",
-                "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
         },
         {
@@ -515,7 +358,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://tv.nxog.top/m/jar.php?id=ou"
+            "jar": "https://vip.nxog.top/jar.php?id=ou"
         },
         {
             "key": "drpy_js_JustLive",
@@ -542,7 +385,7 @@
             "key": "熊掌",
             "name": "熊掌┃采集",
             "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod",
+            "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
