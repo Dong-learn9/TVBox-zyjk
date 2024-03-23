@@ -76,26 +76,26 @@
             "quickSearch": 1,
             "changeable": 1
         },
-    {
-      "key": "苹果",
-      "name": "苹果┃影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
- {
-      "key": "酷看",
-      "name": "酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+        {
+            "key": "苹果",
+            "name": "苹果┃影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷看",
+            "name": "酷看┃秒播",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "Bdys_spider",
             "name": "弹幕|哔滴",
@@ -128,14 +128,11 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
-            "key": "drpy_js_两个BT",
-            "name": "Btto┃[js]",
+            "key": "比特",
+            "name": "比特┃影视",
             "type": 3,
-            "api": " https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/两个BT.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/bttwo.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
+            "api": "csp_Bttwo"
         },
         {
             "key": "drpy_js_子子影视",
@@ -165,35 +162,35 @@
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
- {
-      "key": "厂长弹幕版",
-      "name": "厂长┃弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-     "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
-      "timeout": 25
-    },
-{
-      "key": "白票弹幕版",
-      "name": "白票|弹幕",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-     "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
-      "timeout": 25
-    },
+        {
+            "key": "厂长弹幕版",
+            "name": "厂长┃弹幕",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+            "timeout": 25
+        },
+        {
+            "key": "白票弹幕版",
+            "name": "白票|弹幕",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+            "timeout": 25
+        },
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
