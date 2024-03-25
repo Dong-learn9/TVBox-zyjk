@@ -98,7 +98,7 @@
         },
         {
             "key": "Bdys_spider",
-            "name": "弹幕|哔滴",
+            "name": "弹幕┃哔滴",
             "api": "csp_Bdys01",
             "type": 3,
             "filterable": 1,
@@ -178,7 +178,7 @@
         },
         {
             "key": "白票弹幕版",
-            "name": "白票|弹幕",
+            "name": "白票┃弹幕",
             "type": 3,
             "api": "csp_Cs1369",
             "playerType": 1,
