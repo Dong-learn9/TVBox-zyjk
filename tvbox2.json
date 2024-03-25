@@ -138,7 +138,7 @@
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
-            "api": " https://xhdwc.tk/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
@@ -173,7 +173,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "timeout": 25
         },
         {
@@ -188,7 +188,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "timeout": 25
         },
         {
@@ -377,19 +377,6 @@
             "type": 3,
             "api": "./JS/lib/drpy2.min.js",
             "ext": "./JS/js/量子资源.js"
-        },
-        {
-            "key": "熊掌",
-            "name": "熊掌┃采集",
-            "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "连续剧",
-                "动漫"
-            ]
         },
         {
             "key": "csp_XYQHiker_兔小贝",
