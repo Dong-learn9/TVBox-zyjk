@@ -118,13 +118,6 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
-            "key": "比特",
-            "name": "比特┃影视",
-            "type": 3,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/bttwo.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
-            "api": "csp_Bttwo"
-        },
-        {
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
@@ -255,6 +248,17 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
+    {
+      "key": "两个BT",
+      "name": "2BT┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": "./xBPQ/两个BT.json.json"
+    },
         {
             "key": "黑狐",
             "name": "黑狐┃BPQ",
