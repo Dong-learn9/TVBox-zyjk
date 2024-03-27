@@ -131,6 +131,14 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
+            "key": "csp_LiteApple",
+            "name": "苹果┃影视",
+            "type": 3,
+            "playerType": "2",
+            "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar",
+            "api": "csp_LiteApple"
+        },
+        {
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
