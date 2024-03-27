@@ -2,9 +2,9 @@
     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
     "lives": [
         {
-            "name": "—车—",
+            "name": "Auto",
             "type": 0,
-            "url": "https://weixine.net/tv/ysclive.txt",
+            "url": "https://ghproxy.net/https://weixine.net/tv/ysclive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -22,7 +22,7 @@
         {
             "name": "—欧—",
             "type": 0,
-            "url": "http://tv.nxog.top/m/tv/live.jpg",
+            "url": "https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -160,6 +160,16 @@
             "timeout": 25
         },
         {
+            "key": "py_czspp",
+            "name": "️厂长┃〔PY〕",
+            "type": 3,
+            "api": "py_czspp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py_czspp.py"
+        },
+        {
             "key": "白票弹幕版",
             "name": "白票┃弹幕",
             "type": 3,
@@ -177,7 +187,10 @@
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
-            "style":{"type":"rect","ratio":1.485},
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
             "type": 3,
             "api": "py_cctv",
             "searchable": 1,
@@ -249,17 +262,17 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
-    {
-      "key": "两个BT",
-      "name": "2BT┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": "./xBPQ/两个BT.json"
-    },
+        {
+            "key": "两个BT",
+            "name": "2BT┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "./xBPQ/两个BT.json"
+        },
         {
             "key": "黑狐",
             "name": "黑狐┃BPQ",
