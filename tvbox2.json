@@ -177,6 +177,7 @@
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
+            "style":{"type":"rect","ratio":1.485},
             "type": 3,
             "api": "py_cctv",
             "searchable": 1,
@@ -257,7 +258,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": "./xBPQ/两个BT.json.json"
+      "ext": "./xBPQ/两个BT.json"
     },
         {
             "key": "黑狐",
