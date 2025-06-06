@@ -16,7 +16,7 @@
     //图片是否需要代理
     "PicNeedProxy":"0",
     //是否开启获取首页数据，0关闭，1开启
-    "homeContent":"0",
+    "homeContent":"1",
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]

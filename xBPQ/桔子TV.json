@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
-"站名":"桔子TV",
-"主页url":"https://juztv.com",
+"站名":"星辰影院",
+"主页url":"http://www.skyy8.com/",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -29,7 +29,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://juztv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
+"分类url":"http://www.skyy8.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
 "筛选":
 {
 "1":[

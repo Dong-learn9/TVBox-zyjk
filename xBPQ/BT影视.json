@@ -1,0 +1,11 @@
+{
+	"跳转数组": "<a&&</a[包含:tdown]",
+	"跳转链接": "href=\"&&\"",
+	"搜索url": "https://www.btbtl.com/search/{wd}",
+	"跳转链接前缀": "https://www.btbtl.com",
+	"跳转链接后缀": "",
+	"播放数组": "class=\"video-info-footer&&</div[不包含:文件]",
+	"播放链接": "href=\"&&\"[包含:magnet]",
+	"分类": "电影$movies#电视剧$tv",
+	"分类url": "https://www.btbtl.com/type/{cateId}/{catePg}/"
+}

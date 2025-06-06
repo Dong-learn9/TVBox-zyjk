@@ -3,9 +3,9 @@
     "author": "张弘",
     "Headers":"MOBILE_UA",
     "PicNeedProxy":"0",
-    "homeContent":"0",
+    "homeContent":"1",
     "firstpage": "1",
-    "class_url": "https://zxzj.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "class_url": "https://www.zxzj.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     "class_name": "电影&美剧&韩剧&日剧&泰剧&动漫",
     "class_value": "1&2&3&4&5&6",
     "filterdata": {
@@ -530,7 +530,7 @@
     
     "cat_subtitle":".module-item-note&&Text",
     
-    "cat_prefix": "https://zxzj.vip",
+    "cat_prefix": "https://www.zxzj.pro",
     
     "cat_suffix": "",
     
@@ -554,7 +554,7 @@
     
     "sea_subtitle":".pic-text&&Text",
     
-    "search_prefix": "https://zxzj.vip",
+    "search_prefix": "https://www.zxzj.pro",
     
     "search_suffix": "",
     
@@ -584,7 +584,7 @@
     
     "epi_reverse": "0",
     
-    "epiurl_prefix": "https://zxzj.vip",
+    "epiurl_prefix": "https://www.zxzj.pro",
     "epiurl_suffix": "",
     
     
